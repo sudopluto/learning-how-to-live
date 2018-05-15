@@ -1,0 +1,30 @@
+- anime
+    - just look at mal ugh, will eventully write an importer
+- books
+    - Hackers and Painters
+    - Void Star
+- skills / hobbies
+    - touch typing
+    - python (eek)
+- courses
+    - cs 2500
+    - cs 2510
+    - cs 1800
+    - phil 1145
+    - engw 1111
+    - cs 2800
+    - arch 1310
+- other notes
+    - started playing dnd
+    - was bald for a bit
+    - was also a hairy hairy man for a bit
+    - started working out / fixing diet
+    - got a dope bamboo plant
+    - never stoped switching linux distros
+    - started living a more balanced life
+    - got my first job
+    - went to pax for the first time
+    - went to a lot of concerts
+        - elephante
+        - whethan
+        - rl grimes
