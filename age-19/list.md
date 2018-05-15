@@ -3,6 +3,8 @@
 - books
     - Hackers and Painters
     - Void Star
+- games
+    - Shadow Warrior
 - skills / hobbies
     - touch typing
     - python (eek)
