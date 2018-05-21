@@ -3,9 +3,16 @@
 - books
     - Hackers and Painters
     - Void Star
+    - How To Design Programs 2e
+    - Think Python 2e
 - games
     - Shadow Warrior
 - skills / hobbies
+    - working out
+    - anime
+    - video games
+    - reading
+    - dnd
     - touch typing
     - python (eek)
 - courses
@@ -16,6 +23,7 @@
     - engw 1111
     - cs 2800
     - arch 1310
+    - python koans: completed
 - other notes
     - started playing dnd
     - was bald for a bit
