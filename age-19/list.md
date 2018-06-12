@@ -1,13 +1,20 @@
 - anime
     - just look at mal ugh, will eventully write an importer
 - books
-    - Hackers and Painters
-    - Void Star
-    - How To Design Programs 2e
-    - Think Python 2e
+    - nonfiction
+        - Hackers and Painters
+    - fiction
+        - Void Star
+        - Shadow of the Giant
+        - The Grace of Kings
+    - compsci
+        - How To Design Programs 2e
+        - Think Python 2e
 - games
     - Shadow Warrior
+    - Aragami
 - skills / hobbies
+    - knife sharpening
     - working out
     - anime
     - video games
