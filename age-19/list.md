@@ -15,6 +15,7 @@
 - games
     - Shadow Warrior
     - Aragami
+    - Borderlands 2
 - skills / hobbies
     - knife sharpening
     - working out
@@ -47,3 +48,4 @@
         - elephante
         - whethan
         - rl grimes
+        - boston calling
