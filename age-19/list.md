@@ -16,6 +16,10 @@
     - Shadow Warrior
     - Aragami
     - Borderlands 2
+    - Left 4 Dead 1
+- shows
+    - game of thrones    
+    - the last kingdom
 - skills / hobbies
     - knife sharpening
     - working out
@@ -35,6 +39,8 @@
     - arch 1310
     - python koans: completed
 - other notes
+    - got my license on my first try
+    - renewed my passport
     - started playing dnd
     - was bald for a bit
     - was also a hairy hairy man for a bit
