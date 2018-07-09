@@ -17,6 +17,7 @@
     - Aragami
     - Borderlands 2
     - Left 4 Dead 1
+    - Left 4 Dead 2
 - shows
     - game of thrones    
     - the last kingdom
