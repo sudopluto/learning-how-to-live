@@ -7,12 +7,13 @@
         - Void Star
         - Shadow of the Giant
         - The Grace of Kings
-	- The Kite Runner
         - The Wall of Storms
+        - The Kite Runner
+        - Aurora
     - compsci
         - How To Design Programs 2e
         - Think Python 2e
-	- Think Cpp
+		- Think Cpp
 - games
     - Shadow Warrior
     - Aragami
