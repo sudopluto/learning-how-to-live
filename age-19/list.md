@@ -10,6 +10,7 @@
         - The Wall of Storms
         - The Kite Runner
         - Aurora
+        - Gentlemen & Players
     - compsci
         - How To Design Programs 2e
         - Think Python 2e
