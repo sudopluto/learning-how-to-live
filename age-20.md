@@ -21,3 +21,9 @@
     - fully invested in growth mindset
     - exploring stoicism and buddhism
     - figuring out what I want and how I am supposed to get there
+- music
+    - less edm, more rock
+        - lots of jrock and mathrock
+    - more lowfi 
+    - future funk 
+    - cyberpunkish music 
