@@ -1,0 +1,17 @@
+- yay, I finally turned 20, no longer a teenager baby
+
+- anime
+    - acca 13
+    - grand blue
+- books
+    - 
+- courses
+    - 
+- concerts
+    - whethan
+- clubs
+    - archery
+    - korean class
+    - competitive programming
+- skills
+    - gotten moderately good at touch typing, need to work on spelling and speed
