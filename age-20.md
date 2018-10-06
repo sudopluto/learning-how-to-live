@@ -3,10 +3,12 @@
 - anime
     - acca 13
     - grand blue
+    - boku no hero s3
+    - steins; gate 0
 - books
-    - 
+    - n/a
 - courses
-    - 
+    - n/a
 - concerts
     - whethan
 - clubs
@@ -15,3 +17,7 @@
     - competitive programming
 - skills
     - gotten moderately good at touch typing, need to work on spelling and speed
+- personal philosophy
+    - fully invested in growth mindset
+    - exploring stoicism and buddhism
+    - figuring out what I want and how I am supposed to get there
