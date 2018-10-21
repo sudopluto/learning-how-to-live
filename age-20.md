@@ -5,8 +5,9 @@
     - grand blue
     - boku no hero s3
     - steins; gate 0
+    - attack on titain s3 p1
 - books
-    - n/a
+    - do androids dream of electric sheep? 
 - courses
     - n/a
 - concerts
