@@ -6,12 +6,15 @@
     - boku no hero s3
     - steins; gate 0
     - attack on titain s3 p1
+    - ano hana
+    - ano hana movie
 - books
     - do androids dream of electric sheep? 
 - courses
     - n/a
 - concerts
     - whethan
+    - 1788-l / ekali
 - clubs
     - archery
     - korean class
@@ -22,6 +25,7 @@
     - fully invested in growth mindset
     - exploring stoicism and buddhism
     - figuring out what I want and how I am supposed to get there
+    - choose the hills upon which to die upon
 - music
     - less edm, more rock
         - lots of jrock and mathrock
