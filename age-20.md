@@ -8,8 +8,14 @@
     - attack on titain s3 p1
     - ano hana
     - ano hana movie
+- shows
+    - avatar the last airbender (rewatch)
+- movies
+    - n/a
 - books
     - do androids dream of electric sheep? 
+- games 
+    - n/a
 - courses
     - n/a
 - concerts
