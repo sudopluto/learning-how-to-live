@@ -16,6 +16,8 @@
     - do androids dream of electric sheep? 
 - games 
     - n/a
+- comics
+    - Avatar The Last Airbender: The Lost Adventures
 - courses
     - n/a
 - concerts
@@ -32,6 +34,10 @@
     - exploring stoicism and buddhism
     - figuring out what I want and how I am supposed to get there
     - choose the hills upon which to die upon
+    - personal three truths
+        - humans can only be decisive, never correct
+        - you need to accept the results of the decisions made
+        - everyone is just trying their best
 - music
     - less edm, more rock
         - lots of jrock and mathrock
