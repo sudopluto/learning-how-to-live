@@ -10,14 +10,17 @@
     - ano hana movie
 - shows
     - avatar the last airbender (rewatch)
+    - the legend of korra
 - movies
     - n/a
 - books
     - do androids dream of electric sheep? 
+    - many Phillip K Dick stories
 - games 
     - n/a
 - comics
     - Avatar The Last Airbender: The Lost Adventures
+    - Avatar The Last Airbender: The Promise
 - courses
     - n/a
 - concerts
