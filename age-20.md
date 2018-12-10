@@ -8,6 +8,7 @@
     - attack on titain s3 p1
     - ano hana
     - ano hana movie
+    - hisone to masotan
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
