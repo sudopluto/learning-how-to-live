@@ -9,6 +9,8 @@
     - ano hana
     - ano hana movie
     - hisone to masotan
+    - flcl (rewatch)
+    - flcl progressive
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
