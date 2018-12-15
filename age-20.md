@@ -15,7 +15,7 @@
     - avatar the last airbender (rewatch)
     - the legend of korra
 - movies
-    - n/a
+    - bladerunner 
 - books
     - do androids dream of electric sheep? 
     - many Phillip K Dick stories
