@@ -17,33 +17,46 @@
 - movies
     - bladerunner 
 - books
-    - do androids dream of electric sheep? 
-    - many Phillip K Dick stories
+    - fun:
+      - do androids dream of electric sheep? 
+      - many Phillip K Dick stories
+    - school:
+      - Thinking In C++
+        - Volume 1 complete, Partial of Volume 2
+      - Worldwide Integral Calculus: With Infinite Series
+    - self study:
+      - n/a 
 - games 
     - Deltarune (chapter 1) 
 - comics
-    - Avatar The Last Airbender: The Lost Adventures
-    - Avatar The Last Airbender: The Promise
-- courses
     - n/a
+- courses
+    - neu
+      - cs3500: ood
+      - cs3520: cpp
+      - cs3800: theory of comp
+      - math1342: calc 2 (finally!)
 - concerts
     - whethan
     - 1788-l / ekali
+    - k?d
 - clubs
     - archery
     - korean class
     - competitive programming
 - skills
     - gotten moderately good at touch typing, need to work on spelling and speed
-- personal philosophy
-    - fully invested in growth mindset
-    - exploring stoicism and buddhism
-    - figuring out what I want and how I am supposed to get there
-    - choose the hills upon which to die upon
-    - personal three truths
-        - humans can only be decisive, never correct
-        - you need to accept the results of the decisions made
-        - everyone is just trying their best
+    - basic cooking
+- beliefs
+  - life is a game
+  - exploring meditation / spirituality
+  - some personal truths:
+    - you don't have to die on this hill
+    - most people are trying to do what is right
+    - there is no answer / correct path in life
+- exercise
+  - starting bodyweight progressions
+  - informal yoga
 - music
     - less edm, more rock
         - lots of jrock and mathrock
