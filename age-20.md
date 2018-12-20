@@ -11,6 +11,7 @@
     - hisone to masotan
     - flcl (rewatch)
     - flcl progressive
+    - zombieland saga
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
