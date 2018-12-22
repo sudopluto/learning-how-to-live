@@ -12,6 +12,7 @@
     - flcl (rewatch)
     - flcl progressive
     - zombieland saga
+    - ssss.gridman
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
