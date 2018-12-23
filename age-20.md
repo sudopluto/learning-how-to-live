@@ -13,6 +13,7 @@
     - flcl progressive
     - zombieland saga
     - ssss.gridman
+    - i want to eat your pancreas
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
