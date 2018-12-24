@@ -14,6 +14,7 @@
     - zombieland saga
     - ssss.gridman
     - i want to eat your pancreas
+    - sono toki, kanojo wa
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
