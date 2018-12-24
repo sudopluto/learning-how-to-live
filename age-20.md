@@ -29,6 +29,12 @@
       - Worldwide Integral Calculus: With Infinite Series
     - self study:
       - n/a 
+- papers / essays
+  - tech:
+    - technology and courage
+    - you and your research
+  - phil:
+    - is life a game we are playing?
 - games 
     - Deltarune (chapter 1) 
 - comics
