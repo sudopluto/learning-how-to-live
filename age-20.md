@@ -15,6 +15,9 @@
     - ssss.gridman
     - i want to eat your pancreas
     - sono toki, kanojo wa
+    - tokyo ghoul re 
+    - bunny senpai
+    - goblin slayer
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
