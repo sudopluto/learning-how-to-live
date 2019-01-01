@@ -18,6 +18,7 @@
     - tokyo ghoul re 
     - bunny senpai
     - goblin slayer
+    - flcl alternative 
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
