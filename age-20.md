@@ -34,7 +34,7 @@
         - Volume 1 complete, Partial of Volume 2
       - Worldwide Integral Calculus: With Infinite Series
     - self study:
-      - n/a 
+      - a byte of vim
 - papers / essays
   - tech:
     - technology and courage
