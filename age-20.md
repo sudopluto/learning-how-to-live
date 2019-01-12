@@ -62,6 +62,7 @@
 - skills
     - gotten moderately good at touch typing, need to work on spelling and speed
     - basic cooking
+    - solved a rubik's cube for the first time
 - beliefs
   - life is a game
   - exploring meditation / spirituality
