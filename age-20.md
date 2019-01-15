@@ -20,6 +20,7 @@
     - goblin slayer
     - flcl alternative 
     - baccano
+    - kakegurui
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
