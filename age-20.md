@@ -21,6 +21,7 @@
     - flcl alternative 
     - baccano
     - kakegurui
+    - tsurune
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
@@ -62,6 +63,7 @@
     - competitive programming
 - skills
     - gotten moderately good at touch typing, need to work on spelling and speed
+    - much better at vim, although using spacevim instead of rolling my own
     - basic cooking
     - solved a rubik's cube for the first time
 - beliefs
@@ -80,3 +82,6 @@
     - more lowfi 
     - future funk 
     - cyberpunkish music 
+  - random
+    - stopped distro-hopping (completed an entire semester without switching)
+        - pop os 18.04
