@@ -22,6 +22,7 @@
     - baccano
     - kakegurui
     - tsurune
+    - bakemonogatari 
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
@@ -66,6 +67,7 @@
     - much better at vim, although using spacevim instead of rolling my own
     - basic cooking
     - solved a rubik's cube for the first time
+    - sort of mastered the thumb-around
 - beliefs
   - life is a game
   - exploring meditation / spirituality
@@ -84,4 +86,4 @@
     - cyberpunkish music 
   - random
     - stopped distro-hopping (completed an entire semester without switching)
-        - pop os 18.04
+        - pop os 18.04 -> 18.10
