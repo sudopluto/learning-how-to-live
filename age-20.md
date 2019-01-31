@@ -23,6 +23,7 @@
     - kakegurui
     - tsurune
     - bakemonogatari 
+    - kizumonogatari
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
