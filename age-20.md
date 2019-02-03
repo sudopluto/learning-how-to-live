@@ -24,6 +24,7 @@
     - tsurune
     - bakemonogatari 
     - kizumonogatari
+    - tatami galaxy (rewatch)
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
