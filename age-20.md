@@ -26,6 +26,7 @@
     - kizumonogatari
     - tatami galaxy (rewatch)
     - nisemonogatari
+    - nekomonogatari
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
