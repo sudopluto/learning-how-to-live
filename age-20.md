@@ -72,6 +72,7 @@
     - much better at vim, although using spacevim instead of rolling my own
     - basic cooking
     - solved a rubik's cube for the first time
+      - memorized LBL algorithm
     - sort of mastered the thumb-around
 - beliefs
   - life is a game
