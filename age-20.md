@@ -27,6 +27,7 @@
     - tatami galaxy (rewatch)
     - nisemonogatari
     - nekomonogatari
+    - flcl alternative (rewatch)
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
@@ -47,25 +48,37 @@
   - tech:
     - technology and courage
     - you and your research
+    - structure and interpretation of the cs curriculum
+    - developing developers
+    - how to do what you want and earn what you're worth as a programmer
   - phil:
-    - is life a game we are playing?
+    - is life a game we are playing? (and other paper like that)
+    - the cook & the chef: elon's secret sauce
 - games 
     - Deltarune (chapter 1) 
 - comics
     - n/a
 - courses
     - neu
-      - cs3500: ood
-      - cs3520: cpp
-      - cs3800: theory of comp
-      - math1342: calc 2 (finally!)
+      -taking:
+        - cs3000: algo
+        - cs3650: systems
+        - eece2160: embedded design, robotics
+        - math3081: prob and stats
+        - cs1210: professional development
+      -completed:
+        - cs3500: ood
+        - cs3520: cpp
+        - cs3800: theory of comp
+        - math1342: calc 2 (finally!)
 - concerts
     - whethan
     - 1788-l / ekali
     - k?d
 - clubs
     - archery
-    - korean class
+    - korean class (completed)
+    - hindi class (taking)
     - competitive programming
 - skills
     - gotten moderately good at touch typing, need to work on spelling and speed
@@ -75,12 +88,21 @@
       - memorized LBL algorithm
     - sort of mastered the thumb-around
 - beliefs
-  - life is a game
-  - exploring meditation / spirituality
-  - some personal truths:
-    - you don't have to die on this hill
-    - most people are trying to do what is right
-    - there is no answer / correct path in life
+  - life is a game, don't be afraid of messing around to learn the mechanics
+    - also its very hard to hit a true "game over" in this day and age
+    - it's okay just to play the game, instead of having a concrete goal you are
+      trying to acheive
+  - you don't have to die on this hill / there is no need to try and prove anything
+    - in that vein, no need to think so hard about what others think of you
+      - all it does is screw up your life
+        - do things to make other's happy, even though they actually don't want it
+        - your life ends up being an act, and it's annoying not to be honest with yourself
+  - nothing beautiful can last forever
+      - instead of trying to capture it an keep it forever, just experience and cherish it
+      - if you want to experience it again, then just recreate it
+  - most people are trying to do what is right
+    - but most people are also just looking out for themselves 
+  - there is no answer / correct path in life
 - exercise
   - starting bodyweight progressions
   - informal yoga
@@ -90,6 +112,6 @@
     - more lowfi 
     - future funk 
     - cyberpunkish music 
-  - random
-    - stopped distro-hopping (completed an entire semester without switching)
-        - pop os 18.04 -> 18.10
+- random
+  - stopped distro-hopping (completed an entire semester without switching)
+      - pop os 18.04 -> 18.10
