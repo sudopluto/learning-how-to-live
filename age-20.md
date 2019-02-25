@@ -28,20 +28,18 @@
     - nisemonogatari
     - nekomonogatari
     - flcl alternative (rewatch)
+    - the night is short, walk on girl (rewatch, theater)
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
 - movies
     - bladerunner 
 - books
-    - fun:
-      - do androids dream of electric sheep? 
-      - many Phillip K Dick stories
-      - Artemis
-    - school:
-      - Thinking In C++
-        - Volume 1 complete, Partial of Volume 2
-      - Worldwide Integral Calculus: With Infinite Series
+    - fiction:
+      - sci-fi
+        - do androids dream of electric sheep? 
+        - many Phillip K Dick stories
+        - Artemis
     - self study:
       - a byte of vim
 - papers / essays
@@ -52,7 +50,7 @@
     - developing developers
     - how to do what you want and earn what you're worth as a programmer
   - phil:
-    - is life a game we are playing? (and other paper like that)
+    - is life a game we are playing? (and other papers like that)
     - the cook & the chef: elon's secret sauce
 - games 
     - Deltarune (chapter 1) 
@@ -76,7 +74,7 @@
     - 1788-l / ekali
     - k?d
 - clubs
-    - archery
+    - archery (dropped)
     - korean class (completed)
     - hindi class (taking)
     - competitive programming
