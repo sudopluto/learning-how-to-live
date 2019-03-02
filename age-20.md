@@ -35,8 +35,11 @@
 - movies
     - bladerunner 
 - books
+    - nonfiction:
+      - memoir:
+        - you don't have to say you love me
     - fiction:
-      - sci-fi
+      - sci-fi:
         - do androids dream of electric sheep? 
         - many Phillip K Dick stories
         - Artemis
