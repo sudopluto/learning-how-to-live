@@ -35,6 +35,11 @@
     - the legend of korra
 - movies
     - bladerunner 
+    - bladerunner 2049 shorts
+      - black out 2022
+      - 2036: nexus dawn
+      - 2048: nowhere to run
+    - bladerunner 2049
 - books
     - nonfiction:
       - memoir:
