@@ -31,6 +31,7 @@
     - the night is short, walk on girl (rewatch, theater)
     - monogatari second season
     - hanamonogatari
+    - tsukimonogatari
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
