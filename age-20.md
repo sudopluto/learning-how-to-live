@@ -30,6 +30,7 @@
     - flcl alternative (rewatch)
     - the night is short, walk on girl (rewatch, theater)
     - monogatari second season
+    - hanamonogatari
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
