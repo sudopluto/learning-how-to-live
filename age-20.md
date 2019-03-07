@@ -50,7 +50,8 @@
       - sci-fi:
         - do androids dream of electric sheep? 
         - many Phillip K Dick stories
-        - Artemis
+        - the man in the high castle
+        - artemis
     - self study:
       - a byte of vim
 - papers / essays
