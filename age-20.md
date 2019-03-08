@@ -65,7 +65,10 @@
     - is life a game we are playing? (and other papers like that)
     - the cook & the chef: elon's secret sauce
 - games 
-    - Deltarune (chapter 1) 
+    - pc:
+      - Deltarune (chapter 1) 
+    - xbox 360:
+      - halo 3 (on heroic)
 - comics
     - n/a
 - courses
