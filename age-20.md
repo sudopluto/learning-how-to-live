@@ -64,6 +64,7 @@
   - phil:
     - is life a game we are playing? (and other papers like that)
     - the cook & the chef: elon's secret sauce
+    - courage under fire: testing epictetus's doctrines 
 - games 
     - pc:
       - Deltarune (chapter 1) 
