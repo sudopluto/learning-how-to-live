@@ -32,6 +32,7 @@
     - monogatari second season
     - hanamonogatari
     - tsukimonogatari
+    - owarimonogatari
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
