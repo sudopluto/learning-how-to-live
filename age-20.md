@@ -34,6 +34,7 @@
     - tsukimonogatari
     - owarimonogatari
     - koyomimonogatari
+    - owarimonogatari second season
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
