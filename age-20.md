@@ -33,6 +33,7 @@
     - hanamonogatari
     - tsukimonogatari
     - owarimonogatari
+    - koyomimonogatari
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
