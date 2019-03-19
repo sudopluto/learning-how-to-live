@@ -35,6 +35,8 @@
     - owarimonogatari
     - koyomimonogatari
     - owarimonogatari second season
+    - yahari ore no seishun love comedy wa machigatteiru s1
+    - yahari ore no seishun love comedy wa machigatteiru s2
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
@@ -92,6 +94,8 @@
     - whethan
     - 1788-l / ekali
     - k?d
+- career
+    - accepted co-op at Phillips (test platform software engineer)
 - clubs
     - archery (dropped)
     - korean class (completed)
