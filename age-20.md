@@ -37,6 +37,7 @@
     - owarimonogatari second season
     - yahari ore no seishun love comedy wa machigatteiru s1
     - yahari ore no seishun love comedy wa machigatteiru s2
+    - rinshi ekoda chan
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
