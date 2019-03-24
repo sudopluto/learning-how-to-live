@@ -38,6 +38,11 @@
     - yahari ore no seishun love comedy wa machigatteiru s1
     - yahari ore no seishun love comedy wa machigatteiru s2
     - rinshi ekoda chan
+    - evangelion (rewatch)
+    - end of evangelion (rewatch)
+    - evangelion 1.11: you are (not) alone
+    - evangelion 2.22: you can (not) advance
+    - evangelion 3.33: you can (not) redo
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
