@@ -43,6 +43,7 @@
     - evangelion 1.11: you are (not) alone
     - evangelion 2.22: you can (not) advance
     - evangelion 3.33: you can (not) redo
+    - konosuba s1
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
@@ -113,6 +114,7 @@
     - basic cooking
     - solved a rubik's cube for the first time
       - memorized LBL algorithm
+      - memorized roux algorithm
     - sort of mastered the thumb-around
 - beliefs
   - life is a game, don't be afraid of messing around to learn the mechanics
