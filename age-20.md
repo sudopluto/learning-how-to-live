@@ -44,6 +44,7 @@
     - evangelion 2.22: you can (not) advance
     - evangelion 3.33: you can (not) redo
     - konosuba s1
+    - kaze ga tsuyoku fuite iru
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
