@@ -118,21 +118,32 @@
       - memorized roux algorithm
     - sort of mastered the thumb-around
 - beliefs
-  - life is a game, don't be afraid of messing around to learn the mechanics
-    - also its very hard to hit a true "game over" in this day and age
-    - it's okay just to play the game, instead of having a concrete goal you are
-      trying to acheive
-  - you don't have to die on this hill / there is no need to try and prove anything
-    - in that vein, no need to think so hard about what others think of you
-      - all it does is screw up your life
-        - do things to make other's happy, even though they actually don't want it
-        - your life ends up being an act, and it's annoying not to be honest with yourself
+  - life is just a game, remember to treat it like one
+    - it's okay just to play the game for fun, instead minmaxing and playing optimally
+    - its very hard to hit a true "game over" in this day and age, so don't be too serious
+    - what happened in the past is just lore, has very little impact on gameplay
+  - shouldn't have to try so hard to prove self-worth / make others like you
+    - things should be done / started only if these are true:
+      - you deem them to be worthy / they are a depenency of something worthy
+      - you have a rough idea of what you are getting into
+    - living for others is bad because:
+      - you bad at determining what other people actually want from you
+      - living for others make you feel like a hollow shell / are wearing a mask
   - nothing beautiful can last forever
-      - instead of trying to capture it an keep it forever, just experience and cherish it
-      - if you want to experience it again, then just recreate it
-  - most people are trying to do what is right
-    - but most people are also just looking out for themselves 
-  - there is no answer / correct path in life
+    - instead of trying to capture it an keep it forever, just experience and cherish it
+    - if you want to experience it again, then just recreate it
+- traits
+  - that I want to grow:
+    - playfulness
+    - compassion (for others and for myself)
+    - humility
+    - earnest confidence
+    - agency
+    - curiosity (in things and in others)
+  - that I want to shrink:
+    - criticalness (for others and for myself)
+    - disintrust (in things and in people) 
+    - pessimissm / cynicism 
 - exercise
   - starting bodyweight progressions
   - informal yoga
