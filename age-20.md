@@ -48,6 +48,7 @@
     - doukyonin wa hiza, tokidoki, atama no ue
     - konosuba s2
     - kakegurui xx
+    - yakusoku no neverland
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
