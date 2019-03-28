@@ -46,6 +46,7 @@
     - konosuba s1
     - kaze ga tsuyoku fuite iru
     - doukyonin wa hiza, tokidoki, atama no ue
+    - konosuba s2
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
