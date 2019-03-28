@@ -47,6 +47,7 @@
     - kaze ga tsuyoku fuite iru
     - doukyonin wa hiza, tokidoki, atama no ue
     - konosuba s2
+    - kakegurui xx
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
