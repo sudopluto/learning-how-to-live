@@ -45,6 +45,7 @@
     - evangelion 3.33: you can (not) redo
     - konosuba s1
     - kaze ga tsuyoku fuite iru
+    - doukyonin wa hiza, tokidoki, atama no ue
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
