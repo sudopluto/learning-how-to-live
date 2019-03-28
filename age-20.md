@@ -49,6 +49,7 @@
     - konosuba s2
     - kakegurui xx
     - yakusoku no neverland
+    - go-toubun no hanayome 
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
