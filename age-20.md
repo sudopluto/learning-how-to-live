@@ -50,6 +50,8 @@
     - kakegurui xx
     - yakusoku no neverland
     - go-toubun no hanayome 
+    - domestic na kanojo
+    - boogiepop wa warawanai
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
