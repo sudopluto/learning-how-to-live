@@ -52,6 +52,7 @@
     - go-toubun no hanayome 
     - domestic na kanojo
     - boogiepop wa warawanai
+    - kaguya-sama wa kokurasetai
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
