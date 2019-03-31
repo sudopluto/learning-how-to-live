@@ -53,6 +53,7 @@
     - domestic na kanojo
     - boogiepop wa warawanai
     - kaguya-sama wa kokurasetai
+    - boku no hero: two heros
 
 - shows
     - avatar the last airbender (rewatch)
