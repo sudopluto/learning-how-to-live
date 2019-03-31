@@ -53,9 +53,11 @@
     - domestic na kanojo
     - boogiepop wa warawanai
     - kaguya-sama wa kokurasetai
+
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
+
 - movies
     - bladerunner 
     - bladerunner 2049 shorts
@@ -63,6 +65,7 @@
       - 2036: nexus dawn
       - 2048: nowhere to run
     - bladerunner 2049
+
 - books
     - nonfiction:
       - memoir:
@@ -75,6 +78,7 @@
         - artemis
     - self study:
       - a byte of vim
+
 - papers / essays
   - tech:
     - technology and courage
@@ -86,13 +90,16 @@
     - is life a game we are playing? (and other papers like that)
     - the cook & the chef: elon's secret sauce
     - courage under fire: testing epictetus's doctrines 
+
 - games 
     - pc:
       - Deltarune (chapter 1) 
     - xbox 360:
       - halo 3 (on heroic)
+
 - comics
     - n/a
+
 - courses
     - neu
       -taking:
@@ -106,17 +113,21 @@
         - cs3520: cpp
         - cs3800: theory of comp
         - math1342: calc 2 (finally!)
+
 - concerts
     - whethan
     - 1788-l / ekali
     - k?d
+
 - career
     - accepted co-op at Phillips (test platform software engineer)
+
 - clubs
     - archery (dropped)
     - korean class (completed)
     - hindi class (taking)
     - competitive programming
+
 - skills
     - gotten moderately good at touch typing, need to work on spelling and speed
     - much better at vim, although using spacevim instead of rolling my own
@@ -125,11 +136,14 @@
       - memorized LBL algorithm
       - memorized roux algorithm
     - sort of mastered the thumb-around
+
 - beliefs
   - life is just a game, remember to treat it like one
+    - only seems important during play, returns to meaninglessness when play is stoped
     - it's okay just to play the game for fun, instead minmaxing and playing optimally
     - its very hard to hit a true "game over" in this day and age, so don't be too serious
     - what happened in the past is just lore, has very little impact on gameplay
+    - as long you have some element of choice, your current situation is one of many possibilities 
   - shouldn't have to try so hard to prove self-worth / make others like you
     - things should be done / started only if these are true:
       - you deem them to be worthy / they are a depenency of something worthy
@@ -140,6 +154,38 @@
   - nothing beautiful can last forever
     - instead of trying to capture it an keep it forever, just experience and cherish it
     - if you want to experience it again, then just recreate it
+  - on emotions:
+    - friends (in trad. sense) are basiclly duct tape patches for negative emotions
+      - rely on them to get rid of feelings of loneliness 
+      - rely on them for entertainment when bored
+      - rely on them for validation when lacking self worth
+      - rely on them for affirmation when having self doubt
+      - rely on them to support your excuses instead of getting your life togeather
+    - the problem, is well, there is no other (complete) solution 
+      - all of those emotions are part of the human condition
+      - having lots of friends can't get rid of these emotions
+      - introspection can't get rid of these emotions as well
+    - but there is a balance of how much you rely on yourself and how much you rely on others
+      - rely only on self:   
+        - burdened by trying to define self 
+      - rely only on others: 
+        - less and less control over identity
+    - its hard understand who you are without others, but the existence of others means pain 
+    - relying on others to help you is selfish, but is necessary 
+    - should be able to live your self as long as you make an honest effort in:
+      - trying to regulate your own negative emotions on your own first
+      - leaning on others only when it is necesscary
+      - being there for others in return
+    - introspection and friendship are two equal halfs, both are necessary 
+      - taking the time to get to know yourself, and yourself is needed
+      - taking the risk of getting hurt to form relationships is also needed
+    - but both introspection and friendship shouldn't take over your life
+      - introspection is exploring yourself and your condition
+      - friendship is exploring others and experiences that can only be shared
+      - work is exploring your abilities
+      - learning is exploring your world
+    - all of those four things are essential to avoid imploading
+
 - traits
   - that I want to grow:
     - playfulness
@@ -148,19 +194,25 @@
     - earnest confidence
     - agency
     - curiosity (in things and in others)
+    - hardworking(ness)
   - that I want to shrink:
     - criticalness (for others and for myself)
     - disintrust (in things and in people) 
     - pessimissm / cynicism 
+
 - exercise
   - starting bodyweight progressions
   - informal yoga
+  - tennis?
+
 - music
     - less edm, more rock
         - lots of jrock and mathrock
     - more lowfi 
     - future funk 
     - cyberpunkish music 
+
 - random
   - stopped distro-hopping (completed an entire semester without switching)
-      - pop os 18.04 -> 18.10
+      - pop os 
+        - 18.04 -> 18.10
