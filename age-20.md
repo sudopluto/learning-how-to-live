@@ -54,6 +54,7 @@
     - boogiepop wa warawanai
     - kaguya-sama wa kokurasetai
     - boku no hero: two heros
+    - mob psycho s2
 
 - shows
     - avatar the last airbender (rewatch)
