@@ -60,6 +60,7 @@
 - shows
     - avatar the last airbender (rewatch)
     - the legend of korra
+    - dead set
 
 - movies
     - bladerunner 
@@ -68,6 +69,8 @@
       - 2036: nexus dawn
       - 2048: nowhere to run
     - bladerunner 2049
+    - seoul station
+    - i am a hero
 
 - books
     - nonfiction:
