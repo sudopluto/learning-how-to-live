@@ -143,7 +143,98 @@
       - memorized roux algorithm
     - sort of mastered the thumb-around
 
+- identity:
+  - === current: === 
+    - physical:
+      - sleep / wake up times messed up, quality of sleep pretty low
+      - mostly sedentary, go to the gym sometimes
+      - okay cardio, lowish strength
+      - not playing any sport
+      - very little time spent of looks / grooming
+      - plain clothing / fashion choices (jeans and t-shirts) 
+    - mental:
+      - trying to figure out what is wrong with me 
+      - trying to figure out how to stop being so miserable
+      - flip flop between acting with my values, and trying to avoid pain
+      - identity feels stuck / decaying
+    - intelligence:
+      - high inate intelligence when it comes to math / logic
+      - pretty good a physics, math, and cs
+      - underdeveloped intelligence due to lack of study
+    - work ethic:
+      - basically allergic to work that isn't fun
+      - will try to avoid work if it towards something that matters
+        - self image is of failure / scrappy victory
+          - by avoiding work, I avoid the uncertanty in identity 
+            - if I fail, well I didn't try anyways 
+            - if I succeed, well I am naturally intelligent
+        - all to avoid the case where I work hard and fail
+          - unable to accept pain, trying to avoid it
+    - family:
+      - currently scared more than anything of disappointing parents 
+        - really a complex feeling
+          - torn between fear of disappointing parents, and fear of dependence 
+          - scared of following own path, not wanting to blindly follow parents
+      - realationship completely broken with dad
+      - me and sis are basically each other's theraphists 
+    - social:
+      - all friends are by random  
+      - once social needs are met, completely shut off from others
+      - not good at small talk / making acquitences
+    - hobbies:
+      - currently sagnating
+      - have some strong escapist hobbies
+      - quit skill based hobbies once I have to put in work to get better
+      - view social hobbies as not worth it
+  - === desired: === 
+    - physical:
+      - rock solid sleep timings / quality
+      - average cardio, average strength
+      - pick up a sport or two
+      - spend bare minimum on looks / grooming
+      - keep plain clothing / fashion, maybe add japanese comf 
+    - mental:
+      - have a constantly renewing sense of values / identity
+      - be able to accept pain as part of acting with my values
+      - identity is constantly evolving / reinforced 
+    - intelligence:
+      - developed intelligence in more interesting / niche topics
+      - exploration into areas outside my comfort level
+      - constantly working to develop more (both in depth and breath)
+    - work ethic:
+      - will work hard at the things they deem to be valuable
+      - constantly reevaluating what is worth their time
+      - won't be afraid to work hard towards things they care about,
+      even if they fail
+    - family:
+      - able to have my own values that I am following 
+      - basically a normal relationship with everyone 
+    - social:
+      - some friends are by random, but some friends are chosen and cultivated as well
+      - decent at small talk / making acquitences
+      - stay open even if social needs are met, but spend time wisely
+    - hobbies:
+      - if having escapist hobbies, do them in moderation, not to avoid life
+      - do skill based hobbies if they are fun. when they aren't fun, quit
+        - if you feel like you could have more fun if you get better, get better
+      - have some social hobbies as well
+
 - beliefs
+  - real freedom comes from being able to the important descions based on your values, not on fears
+    - values: 
+      - who do you want to be
+      - who do you want to support
+    - fears:
+      - fear of acting outside of self-image
+      - fear of past experience
+      - fear of acting against other's wishes (family, friends, society)
+  - thoughts are not a concrete representation of reality
+    - in order to act in accordance with you values you need to be able to:
+      - accept your current emotions and thoughts as valid, but not as the truth  
+      - understand that bad emotions (pain, fear, boredom) inevitatble,
+      but exist as part of acting in accord with your values
+      - trying to avoid / control pain cripples your ability to move forwards
+      - accepting and living with the pain allows you to move fowards
   - life is just a game, remember to treat it like one
     - only seems important during play, returns to meaninglessness when play is stoped
     - it's okay just to play the game for fun, instead minmaxing and playing optimally
