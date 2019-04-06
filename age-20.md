@@ -56,6 +56,7 @@
     - boku no hero: two heros
     - mob psycho s2
     - serial experiments lain
+    - zoku owarimonogatari
 
 - shows
     - avatar the last airbender (rewatch)
