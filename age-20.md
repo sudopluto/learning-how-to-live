@@ -15,14 +15,14 @@
     - ssss.gridman
     - i want to eat your pancreas
     - sono toki, kanojo wa
-    - tokyo ghoul re 
+    - tokyo ghoul re
     - bunny senpai
     - goblin slayer
-    - flcl alternative 
+    - flcl alternative
     - baccano
     - kakegurui
     - tsurune
-    - bakemonogatari 
+    - bakemonogatari
     - kizumonogatari
     - tatami galaxy (rewatch)
     - nisemonogatari
@@ -49,7 +49,7 @@
     - konosuba s2
     - kakegurui xx
     - yakusoku no neverland
-    - go-toubun no hanayome 
+    - go-toubun no hanayome
     - domestic na kanojo
     - boogiepop wa warawanai
     - kaguya-sama wa kokurasetai
@@ -64,7 +64,7 @@
     - dead set
 
 - movies
-    - bladerunner 
+    - bladerunner
     - bladerunner 2049 shorts
       - black out 2022
       - 2036: nexus dawn
@@ -79,7 +79,7 @@
         - you don't have to say you love me
     - fiction:
       - sci-fi:
-        - do androids dream of electric sheep? 
+        - do androids dream of electric sheep?
         - many Phillip K Dick stories
         - the man in the high castle
         - artemis
@@ -96,11 +96,11 @@
   - phil:
     - is life a game we are playing? (and other papers like that)
     - the cook & the chef: elon's secret sauce
-    - courage under fire: testing epictetus's doctrines 
+    - courage under fire: testing epictetus's doctrines
 
-- games 
+- games
     - pc:
-      - Deltarune (chapter 1) 
+      - Deltarune (chapter 1)
     - xbox 360:
       - halo 3 (on heroic)
 
@@ -144,137 +144,59 @@
       - memorized roux algorithm
     - sort of mastered the thumb-around
 
-- identity:
-  - === current: === 
-    - physical:
-      - sleep / wake up times messed up, quality of sleep pretty low
-      - mostly sedentary, go to the gym sometimes
-      - okay cardio, lowish strength
-      - not playing any sport
-      - very little time spent of looks / grooming
-      - plain clothing / fashion choices (jeans and t-shirts) 
-    - mental:
-      - trying to figure out what is wrong with me 
-      - trying to figure out how to stop being so miserable
-      - flip flop between acting with my values, and trying to avoid pain
-      - identity feels stuck / decaying
-    - intelligence:
-      - high inate intelligence when it comes to math / logic
-      - pretty good a physics, math, and cs
-      - underdeveloped intelligence due to lack of study
-    - work ethic:
-      - basically allergic to work that isn't fun
-      - will try to avoid work if it towards something that matters
-        - self image is of failure / scrappy victory
-          - by avoiding work, I avoid the uncertanty in identity 
-            - if I fail, well I didn't try anyways 
-            - if I succeed, well I am naturally intelligent
-        - all to avoid the case where I work hard and fail
-          - unable to accept pain, trying to avoid it
-    - family:
-      - currently scared more than anything of disappointing parents 
-        - really a complex feeling
-          - torn between fear of disappointing parents, and fear of dependence 
-          - scared of following own path, not wanting to blindly follow parents
-      - realationship completely broken with dad
-      - me and sis are basically each other's theraphists 
-    - social:
-      - all friends are by random  
-      - once social needs are met, completely shut off from others
-      - not good at small talk / making acquitences
-    - hobbies:
-      - currently sagnating
-      - have some strong escapist hobbies
-      - quit skill based hobbies once I have to put in work to get better
-      - view social hobbies as not worth it
-  - === desired: === 
-    - physical:
-      - rock solid sleep timings / quality
-      - average cardio, average strength
-      - pick up a sport or two
-      - spend bare minimum on looks / grooming
-      - keep plain clothing / fashion, maybe add japanese comf 
-    - mental:
-      - have a constantly renewing sense of values / identity
-      - be able to accept pain as part of acting with my values
-      - identity is constantly evolving / reinforced 
-    - intelligence:
-      - developed intelligence in more interesting / niche topics
-      - exploration into areas outside my comfort level
-      - constantly working to develop more (both in depth and breath)
-    - work ethic:
-      - will work hard at the things they deem to be valuable
-      - constantly reevaluating what is worth their time
-      - won't be afraid to work hard towards things they care about,
-      even if they fail
-    - family:
-      - able to have my own values that I am following 
-      - basically a normal relationship with everyone 
-    - social:
-      - some friends are by random, but some friends are chosen and cultivated as well
-      - decent at small talk / making acquitences
-      - stay open even if social needs are met, but spend time wisely
-    - hobbies:
-      - if having escapist hobbies, do them in moderation, not to avoid life
-      - do skill based hobbies if they are fun. when they aren't fun, quit
-        - if you feel like you could have more fun if you get better, get better
-      - have some social hobbies as well
-
 - beliefs
-  - real freedom comes from being able to the important descions based on your values, not on fears
-    - values: 
-      - who do you want to be
-      - who do you want to support
-    - fears:
-      - fear of acting outside of self-image
-      - fear of past experience
-      - fear of acting against other's wishes (family, friends, society)
-  - thoughts are not a concrete representation of reality
-    - in order to act in accordance with you values you need to be able to:
-      - accept your current emotions and thoughts as valid, but not as the truth  
-      - understand that bad emotions (pain, fear, boredom) inevitatble,
-      but exist as part of acting in accord with your values
-      - trying to avoid / control pain cripples your ability to move forwards
-      - accepting and living with the pain allows you to move fowards
-  - life is just a game, remember to treat it like one
+  - loving yourself means also loving the parts of you that plain old suck:
+    - stuff that you are shamefull about
+    - stuff that brings you pain
+    - stuff that you wish just didn't exist
+    - stuff that you wish you could redo or fix
+  - if you can find it in you to love yourself, then you can start to properly love others,
+  and recieve their love
+  - so much pain comes from reflecting on your past to create a self-image (mask),
+  and then trying to use that mask to decide how to shape your future
+  - to try and escape this, ditch the mask and try to view self as incoherent
+  - failure hurts more than staying stuck, but you can't move fowards without trying
+  - real freedom comes from being able to make descions untainted from fear of pain 
+  or attachment to past self-images
+    - being able to come to a descion with these thoughts in mind:
+      - the descion is my duty, and thus I must choose the best option that I have
+      - if I am uninformed of my options and I have the time, I should get informed,
+      but that is not an excuse to offload the duty onto someone else
+      - the best option I have might cause me pain, and might fail, but it is my 
+      duty to at least try
+  - if you really chose the best option, the trigger to second guess should be
+  a change in environment 
+    - the trigger to second guess shouldn't be expected pain or the doubts of other people
+  - inner voice is not a concrete representation of reality, just a voice.
+  you can choose to listen to it
+  - life is just like an rpg game, remember to treat it like one once in a while
     - only seems important during play, returns to meaninglessness when play is stoped
     - it's okay just to play the game for fun, instead minmaxing and playing optimally
     - its very hard to hit a true "game over" in this day and age, so don't be too serious
     - what happened in the past is just lore, has very little impact on gameplay
-    - as long you have some element of choice, your current situation is one of many possibilities 
-  - shouldn't have to try so hard to prove self-worth / make others like you
-    - things should be done / started only if these are true:
-      - you deem them to be worthy / they are a depenency of something worthy
-      - you have a rough idea of what you are getting into
-    - living for others is bad because:
-      - you bad at determining what other people actually want from you
-      - living for others make you feel like a hollow shell / are wearing a mask
+    - as long you have some element of choice, your path is one of many possibilities
+    - why would you hate the protagonist if you are the protagonist? 
   - nothing beautiful can last forever
-    - instead of trying to capture it an keep it forever, just experience and cherish it
-    - if you want to experience it again, then just recreate it
+    - instead of trying to capture it an keep it forever, just experience 
+    and cherish it till the end
+    - if you want to experience it again, then just try to recreate it
   - on emotions:
     - friends (in trad. sense) are basiclly duct tape patches for negative emotions
-      - rely on them to get rid of feelings of loneliness 
+      - rely on them to get rid of feelings of loneliness
       - rely on them for entertainment when bored
       - rely on them for validation when lacking self worth
       - rely on them for affirmation when having self doubt
       - rely on them to support your excuses instead of getting your life togeather
-    - the problem, is well, there is no other (complete) solution 
+    - the problem, is well, there is no other (complete) solution
       - all of those emotions are part of the human condition
       - having lots of friends can't get rid of these emotions
       - introspection can't get rid of these emotions as well
     - but there is a balance of how much you rely on yourself and how much you rely on others
-      - rely only on self:   
-        - burdened by trying to define self 
-      - rely only on others: 
+      - rely only on self:
+        - burdened by trying to define self
+      - rely only on others:
         - less and less control over identity
-    - its hard understand who you are without others, but the existence of others means pain 
-    - relying on others to help you is selfish, but is necessary 
-    - should be able to live your self as long as you make an honest effort in:
-      - trying to regulate your own negative emotions on your own first
-      - leaning on others only when it is necesscary
-      - being there for others in return
-    - introspection and friendship are two equal halfs, both are necessary 
+    - introspection and friendship are both valuable parts of life (that hurt)
       - taking the time to get to know yourself, and yourself is needed
       - taking the risk of getting hurt to form relationships is also needed
     - but both introspection and friendship shouldn't take over your life
@@ -284,20 +206,6 @@
       - learning is exploring your world
     - all of those four things are essential to avoid imploading
 
-- traits
-  - that I want to grow:
-    - playfulness
-    - compassion (for others and for myself)
-    - humility
-    - earnest confidence
-    - agency
-    - curiosity (in things and in others)
-    - hardworking(ness)
-  - that I want to shrink:
-    - criticalness (for others and for myself)
-    - disintrust (in things and in people) 
-    - pessimissm / cynicism 
-
 - exercise
   - starting bodyweight progressions
   - informal yoga
@@ -306,11 +214,11 @@
 - music
     - less edm, more rock
         - lots of jrock and mathrock
-    - more lowfi 
-    - future funk 
-    - cyberpunkish music 
+    - more lowfi
+    - future funk
+    - cyberpunkish music
 
 - random
   - stopped distro-hopping (completed an entire semester without switching)
-      - pop os 
+      - pop os
         - 18.04 -> 18.10
