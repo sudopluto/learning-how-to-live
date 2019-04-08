@@ -97,6 +97,8 @@
     - is life a game we are playing? (and other papers like that)
     - the cook & the chef: elon's secret sauce
     - courage under fire: testing epictetus's doctrines
+  - random:
+    - basically everything on evangelion
 
 - games
     - pc:
@@ -108,18 +110,18 @@
     - n/a
 
 - courses
-    - neu
-      -taking:
-        - cs3000: algo
-        - cs3650: systems
-        - eece2160: embedded design, robotics
-        - math3081: prob and stats
-        - cs1210: professional development
-      -completed:
-        - cs3500: ood
-        - cs3520: cpp
-        - cs3800: theory of comp
-        - math1342: calc 2 (finally!)
+  - neu
+    - taking
+      - cs3000: algo
+      - cs3650: systems
+      - eece2160: embedded design, robotics
+      - math3081: prob and stats
+      - cs1210: professional development
+    - completed
+      - cs3500: ood
+      - cs3520: cpp
+      - cs3800: theory of comp
+      - math1342: calc 2 (finally!)
 
 - concerts
     - whethan
