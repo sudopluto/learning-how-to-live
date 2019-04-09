@@ -57,6 +57,7 @@
     - mob psycho s2
     - serial experiments lain
     - zoku owarimonogatari
+    - kareshi kanojo no jijou 
 
 - shows
     - avatar the last airbender (rewatch)
