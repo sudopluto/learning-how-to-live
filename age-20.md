@@ -58,6 +58,7 @@
     - serial experiments lain
     - zoku owarimonogatari
     - kareshi kanojo no jijou 
+    - asobi asobase
 
 - shows
     - avatar the last airbender (rewatch)
