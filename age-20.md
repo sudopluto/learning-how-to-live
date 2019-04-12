@@ -59,6 +59,7 @@
     - zoku owarimonogatari
     - kareshi kanojo no jijou 
     - asobi asobase
+    - hinamatsuri 
 
 - shows
     - avatar the last airbender (rewatch)
