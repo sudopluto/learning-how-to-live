@@ -66,6 +66,7 @@
     - the legend of korra
     - dead set
     - love death + robots
+    - black summer s1
 
 - movies
     - bladerunner
