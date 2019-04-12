@@ -65,6 +65,7 @@
     - avatar the last airbender (rewatch)
     - the legend of korra
     - dead set
+    - love death + robots
 
 - movies
     - bladerunner
