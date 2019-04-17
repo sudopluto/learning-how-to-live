@@ -60,6 +60,7 @@
     - kareshi kanojo no jijou 
     - asobi asobase
     - hinamatsuri 
+    - perfect blue
 
 - shows
     - avatar the last airbender (rewatch)
