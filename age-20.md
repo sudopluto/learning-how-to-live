@@ -84,6 +84,8 @@
     - nonfiction:
       - memoir:
         - you don't have to say you love me
+      - opinion:
+        - amusing ourseleves to death
     - fiction:
       - sci-fi:
         - do androids dream of electric sheep?
@@ -228,6 +230,7 @@
     - cyberpunkish music
 
 - random
+  - got first hawaiian shirt
   - stopped distro-hopping (completed an entire semester without switching)
       - pop os
         - 18.04 -> 18.10
