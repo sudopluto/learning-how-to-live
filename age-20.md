@@ -156,6 +156,21 @@
     - sort of mastered the thumb-around
 
 - beliefs
+  - on the path taken in life:
+    - mom and dad grew up in a whole different environment
+      - you have to stay on the "yellow brick road", or you will fall through
+      the cracks
+    - they love me, so they wanted to make sure I understood this fact
+      - so they beat it into me, so that even if I did understand it,
+      at least I would know it
+    - the path that is laid out for me works, as long as I work for it
+    - but with the privlage I am given, I have the ability to venture off the
+    path without much consequences
+    - given my privlage, I have a responsibilty to explore the areas off the path
+      - exploaration to explore myself and what I like
+      - exploaration to confirm or deny parts of the path, to test it in combat
+      - exploaration to experiment with the path, to update it for the 
+      current environment
   - loving yourself means also loving the parts of you that plain old suck:
     - stuff that you are shamefull about
     - stuff that brings you pain
