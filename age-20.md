@@ -249,3 +249,4 @@
   - stopped distro-hopping (completed an entire semester without switching)
       - pop os
         - 18.04 -> 18.10
+        - 18.10 -> 19.04
