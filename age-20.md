@@ -1,161 +1,5 @@
 - yay, I finally turned 20, no longer a teenager baby
 
-- anime
-    - acca 13
-    - grand blue
-    - boku no hero s3
-    - steins; gate 0
-    - attack on titain s3 p1
-    - ano hana
-    - ano hana movie
-    - hisone to masotan
-    - flcl (rewatch)
-    - flcl progressive
-    - zombieland saga
-    - ssss.gridman
-    - i want to eat your pancreas
-    - sono toki, kanojo wa
-    - tokyo ghoul re
-    - bunny senpai
-    - goblin slayer
-    - flcl alternative
-    - baccano
-    - kakegurui
-    - tsurune
-    - bakemonogatari
-    - kizumonogatari
-    - tatami galaxy (rewatch)
-    - nisemonogatari
-    - nekomonogatari
-    - flcl alternative (rewatch)
-    - the night is short, walk on girl (rewatch, theater)
-    - monogatari second season
-    - hanamonogatari
-    - tsukimonogatari
-    - owarimonogatari
-    - koyomimonogatari
-    - owarimonogatari second season
-    - yahari ore no seishun love comedy wa machigatteiru s1
-    - yahari ore no seishun love comedy wa machigatteiru s2
-    - rinshi ekoda chan
-    - evangelion (rewatch)
-    - end of evangelion (rewatch)
-    - evangelion 1.11: you are (not) alone
-    - evangelion 2.22: you can (not) advance
-    - evangelion 3.33: you can (not) redo
-    - konosuba s1
-    - kaze ga tsuyoku fuite iru
-    - doukyonin wa hiza, tokidoki, atama no ue
-    - konosuba s2
-    - kakegurui xx
-    - yakusoku no neverland
-    - go-toubun no hanayome
-    - domestic na kanojo
-    - boogiepop wa warawanai
-    - kaguya-sama wa kokurasetai
-    - boku no hero: two heros
-    - mob psycho s2
-    - serial experiments lain
-    - zoku owarimonogatari
-    - kareshi kanojo no jijou 
-    - asobi asobase
-    - hinamatsuri 
-    - perfect blue
-
-- shows
-    - avatar the last airbender (rewatch)
-    - the legend of korra
-    - dead set
-    - love death + robots
-    - black summer s1
-
-- movies
-    - bladerunner
-    - bladerunner 2049 shorts
-      - black out 2022
-      - 2036: nexus dawn
-      - 2048: nowhere to run
-    - bladerunner 2049
-    - seoul station
-    - i am a hero
-    - spider-man: into the spider-verse
-    - edge of tomorrow
-
-- books
-    - nonfiction:
-      - memoir:
-        - you don't have to say you love me
-      - opinion:
-        - amusing ourseleves to death
-    - fiction:
-      - sci-fi:
-        - do androids dream of electric sheep?
-        - many Phillip K Dick stories
-        - the man in the high castle
-        - artemis
-    - self study:
-      - a byte of vim
-
-- papers / essays
-  - tech:
-    - technology and courage
-    - you and your research
-    - structure and interpretation of the cs curriculum
-    - developing developers
-    - how to do what you want and earn what you're worth as a programmer
-  - phil:
-    - is life a game we are playing? (and other papers like that)
-    - the cook & the chef: elon's secret sauce
-    - courage under fire: testing epictetus's doctrines
-  - random:
-    - basically everything on evangelion
-
-- games
-    - pc:
-      - Deltarune (chapter 1)
-    - xbox 360:
-      - halo 3 (on heroic)
-
-- comics
-    - n/a
-
-- courses
-  - neu
-    - taking
-      - cs3000: algo
-      - cs3650: systems
-      - eece2160: embedded design, robotics
-      - math3081: prob and stats
-      - cs1210: professional development
-    - completed
-      - cs3500: ood
-      - cs3520: cpp
-      - cs3800: theory of comp
-      - math1342: calc 2 (finally!)
-
-- concerts
-    - whethan
-    - 1788-l / ekali
-    - k?d
-
-- career
-    - accepted co-op at Phillips (test platform software engineer)
-
-- clubs
-    - archery (dropped)
-    - korean class (completed)
-    - hindi class (taking)
-    - competitive programming
-
-- skills
-    - gotten moderately good at touch typing, need to work on spelling and speed
-    - much better at vim, although using spacevim instead of rolling my own
-    - basic cooking
-    - solved a rubik's cube for the first time
-      - memorized LBL algorithm
-      - memorized roux algorithm
-    - sort of mastered the thumb-around
-
 - beliefs
   - on the path taken in life:
     - mom and dad grew up in a whole different environment
@@ -232,6 +76,162 @@
       - work is exploring your abilities
       - learning is exploring your world
     - all of those four things are essential to avoid imploading
+
+- anime
+    - acca 13
+    - grand blue
+    - boku no hero s3
+    - steins; gate 0
+    - attack on titain s3 p1
+    - ano hana
+    - ano hana movie
+    - hisone to masotan
+    - flcl (rewatch)
+    - flcl progressive
+    - zombieland saga
+    - ssss.gridman
+    - i want to eat your pancreas
+    - sono toki, kanojo wa
+    - tokyo ghoul re
+    - bunny senpai
+    - goblin slayer
+    - flcl alternative
+    - baccano
+    - kakegurui
+    - tsurune
+    - bakemonogatari
+    - kizumonogatari
+    - tatami galaxy (rewatch)
+    - nisemonogatari
+    - nekomonogatari
+    - flcl alternative (rewatch)
+    - the night is short, walk on girl (rewatch, theater)
+    - monogatari second season
+    - hanamonogatari
+    - tsukimonogatari
+    - owarimonogatari
+    - koyomimonogatari
+    - owarimonogatari second season
+    - yahari ore no seishun love comedy wa machigatteiru s1
+    - yahari ore no seishun love comedy wa machigatteiru s2
+    - rinshi ekoda chan
+    - evangelion (rewatch)
+    - end of evangelion (rewatch)
+    - evangelion 1.11: you are (not) alone
+    - evangelion 2.22: you can (not) advance
+    - evangelion 3.33: you can (not) redo
+    - konosuba s1
+    - kaze ga tsuyoku fuite iru
+    - doukyonin wa hiza, tokidoki, atama no ue
+    - konosuba s2
+    - kakegurui xx
+    - yakusoku no neverland
+    - go-toubun no hanayome
+    - domestic na kanojo
+    - boogiepop wa warawanai
+    - kaguya-sama wa kokurasetai
+    - boku no hero: two heros
+    - mob psycho s2
+    - serial experiments lain
+    - zoku owarimonogatari
+    - kareshi kanojo no jijou 
+    - asobi asobase
+    - hinamatsuri 
+    - perfect blue
+
+- books
+    - nonfiction:
+      - memoir:
+        - you don't have to say you love me
+      - opinion:
+        - amusing ourseleves to death
+    - fiction:
+      - sci-fi:
+        - do androids dream of electric sheep?
+        - many Phillip K Dick stories
+        - the man in the high castle
+        - artemis
+    - self study:
+      - a byte of vim
+
+- papers / essays
+  - tech:
+    - technology and courage
+    - you and your research
+    - structure and interpretation of the cs curriculum
+    - developing developers
+    - how to do what you want and earn what you're worth as a programmer
+  - phil:
+    - is life a game we are playing? (and other papers like that)
+    - the cook & the chef: elon's secret sauce
+    - courage under fire: testing epictetus's doctrines
+  - random:
+    - basically everything on evangelion
+
+- shows
+    - avatar the last airbender (rewatch)
+    - the legend of korra
+    - dead set
+    - love death + robots
+    - black summer s1
+
+- movies
+    - bladerunner
+    - bladerunner 2049 shorts
+      - black out 2022
+      - 2036: nexus dawn
+      - 2048: nowhere to run
+    - bladerunner 2049
+    - seoul station
+    - i am a hero
+    - spider-man: into the spider-verse
+    - edge of tomorrow
+
+- games
+    - pc:
+      - Deltarune (chapter 1)
+    - xbox 360:
+      - halo 3 (on heroic)
+
+- comics
+    - n/a
+
+- courses
+  - neu
+    - taking
+      - cs3000: algo
+      - cs3650: systems
+      - eece2160: embedded design, robotics
+      - math3081: prob and stats
+      - cs1210: professional development
+    - completed
+      - cs3500: ood
+      - cs3520: cpp
+      - cs3800: theory of comp
+      - math1342: calc 2 (finally!)
+
+- concerts
+    - whethan
+    - 1788-l / ekali
+    - k?d
+
+- career
+    - accepted co-op at Phillips (test platform software engineer)
+
+- clubs
+    - archery (dropped)
+    - korean class (completed)
+    - hindi class (taking)
+    - competitive programming
+
+- skills
+    - gotten moderately good at touch typing, need to work on spelling and speed
+    - much better at vim, although using spacevim instead of rolling my own
+    - basic cooking
+    - solved a rubik's cube for the first time
+      - memorized LBL algorithm
+      - memorized roux algorithm
+    - sort of mastered the thumb-around
 
 - exercise
   - starting bodyweight progressions
