@@ -138,6 +138,7 @@
     - asobi asobase
     - hinamatsuri 
     - perfect blue
+    - your lie in april
 
 - books
     - nonfiction:
