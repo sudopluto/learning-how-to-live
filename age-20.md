@@ -175,6 +175,7 @@
     - dead set
     - love death + robots
     - black summer s1
+    - generation kill
 
 - movies
     - bladerunner
