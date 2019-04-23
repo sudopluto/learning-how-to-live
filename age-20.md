@@ -139,6 +139,7 @@
     - hinamatsuri 
     - perfect blue
     - your lie in april
+    - the girl who leapt through time
 
 - books
     - nonfiction:
