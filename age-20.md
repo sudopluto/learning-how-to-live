@@ -191,6 +191,7 @@
     - i am a hero
     - spider-man: into the spider-verse
     - edge of tomorrow
+    - love & pop
 
 - games
     - pc:
