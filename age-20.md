@@ -142,6 +142,7 @@
     - the girl who leapt through time
     - ping pong the animation
     - paprika
+    - kill la kill
 
 - books
     - nonfiction:
