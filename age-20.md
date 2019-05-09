@@ -156,6 +156,7 @@
         - many Phillip K Dick stories
         - the man in the high castle
         - artemis
+        - crashing heaven
     - self study:
       - a byte of vim
 
