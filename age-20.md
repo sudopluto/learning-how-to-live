@@ -207,16 +207,25 @@
 - courses
   - neu
     - taking
+      - gpu programming by nucar
+    - completed
       - cs3000: algo
       - cs3650: systems
       - eece2160: embedded design, robotics
-      - math3081: prob and stats
       - cs1210: professional development
-    - completed
       - cs3500: ood
       - cs3520: cpp
       - cs3800: theory of comp
       - math1342: calc 2 (finally!)
+    - dropped
+      - math3081: prob and stats
+  - online
+    - taking
+      - cherno cpp
+      - sadler stoicism
+      - ubc how to code p1
+    - completed
+      - thoughbot vim
 
 - concerts
     - whethan
