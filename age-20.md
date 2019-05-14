@@ -143,6 +143,7 @@
     - ping pong the animation
     - paprika
     - kill la kill
+    - tatami galaxy specials
 
 - books
     - nonfiction:
