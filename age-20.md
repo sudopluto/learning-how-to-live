@@ -207,6 +207,13 @@
 - comics
     - n/a
 
+- blogs / vlogs:
+  - vlogs:
+    - techlead
+    - jarvis johnson
+    - mayuko
+    - joma
+    - the cherno project
 - courses
   - neu
     - taking
