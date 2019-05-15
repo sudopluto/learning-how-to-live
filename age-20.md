@@ -147,6 +147,8 @@
 
 - books
     - nonfiction:
+      - philosophy:
+        - the enchiridon
       - memoir:
         - you don't have to say you love me
       - opinion:
@@ -223,9 +225,9 @@
   - online
     - taking
       - cherno cpp
-      - sadler stoicism
       - ubc how to code p1
     - completed
+      - sadler enchiridon
       - thoughbot vim
 
 - concerts
