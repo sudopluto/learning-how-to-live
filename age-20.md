@@ -77,6 +77,13 @@
       - learning is exploring your world
     - all of those four things are essential to avoid imploading
 
+- areas needing work
+  - getting rid of my desire to be heard 
+  - getting rid of my desire to be respected / held in esteem
+  - getting rid of my desire to have things without paying the fair price
+    - in effort or in relationships
+  - incorporating a more duty based descion making method
+
 - anime
     - acca 13
     - grand blue
