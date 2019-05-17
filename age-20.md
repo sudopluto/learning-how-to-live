@@ -221,6 +221,9 @@
     - mayuko
     - joma
     - the cherno project
+  - blogs
+    - stephanie hurlburt
+
 - courses
   - neu
     - taking
