@@ -167,6 +167,7 @@
         - the man in the high castle
         - artemis
         - crashing heaven
+        - vurt
     - self study:
       - a byte of vim
 
