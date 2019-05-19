@@ -192,6 +192,7 @@
     - love death + robots
     - black summer s1
     - generation kill
+    - game of thrones
 
 - movies
     - bladerunner
@@ -205,6 +206,9 @@
     - spider-man: into the spider-verse
     - edge of tomorrow
     - love & pop
+    - john wick
+    - john wick 2 (rewatch)
+    - john wick 3
 
 - games
     - pc:
