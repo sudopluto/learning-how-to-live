@@ -218,7 +218,7 @@
     - xbox 360:
       - halo 3 (on heroic)
 
-- comics
+- comics / manga
     - n/a
 
 - blogs / vlogs:
@@ -249,7 +249,6 @@
   - online
     - taking
       - cherno cpp
-      - ubc how to code p1
     - completed
       - sadler enchiridon
       - thoughbot vim
@@ -262,10 +261,13 @@
 - career
     - accepted co-op at Phillips (test platform software engineer)
 
+- places
+    - lived right across from the MFA in a bunk bed
+
 - clubs
     - archery (dropped)
     - korean class (completed)
-    - hindi class (taking)
+    - hindi class (completed)
     - competitive programming
 
 - skills
@@ -276,6 +278,7 @@
       - memorized LBL algorithm
       - memorized roux algorithm
     - sort of mastered the thumb-around
+    - getting pretty decent at C++
 
 - exercise
   - starting bodyweight progressions
