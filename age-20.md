@@ -178,6 +178,7 @@
     - structure and interpretation of the cs curriculum
     - developing developers
     - how to do what you want and earn what you're worth as a programmer
+    - programming in a undergraduate CS curriculum (stroustrup)
   - phil:
     - is life a game we are playing? (and other papers like that)
     - the cook & the chef: elon's secret sauce
