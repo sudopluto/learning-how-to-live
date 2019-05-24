@@ -151,6 +151,7 @@
     - paprika
     - kill la kill
     - tatami galaxy specials
+    - space dandy
 
 - books
     - nonfiction:
