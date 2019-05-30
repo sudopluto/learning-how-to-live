@@ -244,7 +244,8 @@
       - cs3520: cpp
       - cs3800: theory of comp
       - math1342: calc 2 (finally!)
-      - gpu programming by nucar
+      - gpu programming by nucar 
+          - (won the final project, got a jetson nano)
     - dropped
       - math3081: prob and stats
   - online
