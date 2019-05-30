@@ -235,7 +235,6 @@
 - courses
   - neu
     - taking
-      - gpu programming by nucar
     - completed
       - cs3000: algo
       - cs3650: systems
@@ -245,6 +244,7 @@
       - cs3520: cpp
       - cs3800: theory of comp
       - math1342: calc 2 (finally!)
+      - gpu programming by nucar
     - dropped
       - math3081: prob and stats
   - online
