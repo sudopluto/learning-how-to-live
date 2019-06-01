@@ -212,6 +212,7 @@
     - john wick
     - john wick 2 (rewatch)
     - john wick 3
+    - booksmart (was kinda gross tbh)
 
 - games
     - pc:
@@ -296,6 +297,7 @@
 
 - random
   - got first hawaiian shirt
+  - got a haircut I liked for the first time ever
   - stopped distro-hopping (completed an entire semester without switching)
       - pop os
         - 18.04 -> 18.10
