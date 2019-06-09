@@ -142,7 +142,7 @@
     - serial experiments lain
     - zoku owarimonogatari
     - kareshi kanojo no jijou 
-    - asobi asobase
+    - asobi asobase + ova
     - hinamatsuri 
     - perfect blue
     - your lie in april
@@ -169,6 +169,7 @@
         - artemis
         - crashing heaven
         - vurt
+        - green earth
     - self study:
       - a byte of vim
 
