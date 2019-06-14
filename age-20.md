@@ -152,6 +152,7 @@
     - kill la kill
     - tatami galaxy specials
     - space dandy
+    - space dandy s2
 
 - books
     - nonfiction:
