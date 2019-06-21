@@ -153,6 +153,8 @@
     - tatami galaxy specials
     - space dandy
     - space dandy s2
+    - sarazanmai
+    - mawaru penguindrum
 
 - books
     - nonfiction:
