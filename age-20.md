@@ -155,6 +155,7 @@
     - space dandy s2
     - sarazanmai
     - mawaru penguindrum
+    - senryuu shojo
 
 - books
     - nonfiction:
