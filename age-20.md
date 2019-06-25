@@ -156,6 +156,7 @@
     - sarazanmai
     - mawaru penguindrum
     - senryuu shojo
+    - dororo
 
 - books
     - nonfiction:
@@ -201,6 +202,7 @@
     - black summer s1
     - generation kill
     - game of thrones
+    - seinfeld
 
 - movies
     - bladerunner
@@ -292,6 +294,7 @@
   - starting bodyweight progressions
   - informal yoga
   - tennis?
+  - def ping pong
 
 - music
     - less edm, more rock
