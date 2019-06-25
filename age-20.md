@@ -166,6 +166,9 @@
         - you don't have to say you love me
       - opinion:
         - amusing ourseleves to death
+      - computer science:
+        - a byte of vim
+        - think like a programmer
     - fiction:
       - sci-fi:
         - do androids dream of electric sheep?
@@ -175,8 +178,6 @@
         - crashing heaven
         - vurt
         - green earth
-    - self study:
-      - a byte of vim
 
 - papers / essays / lectures
   - tech:
