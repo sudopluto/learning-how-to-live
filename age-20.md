@@ -157,6 +157,7 @@
     - mawaru penguindrum
     - senryuu shojo
     - dororo
+    - attack on titain s3 p2
 
 - books
     - nonfiction:
@@ -260,10 +261,11 @@
       - math3081: prob and stats
   - online
     - taking
-      - cherno cpp
     - completed
       - sadler enchiridon
       - thoughbot vim
+      - cherno cpp
+      - modern c++ for c programmers (mini)
 
 - concerts
     - whethan
