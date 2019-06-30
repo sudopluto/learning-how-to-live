@@ -178,6 +178,7 @@
         - crashing heaven
         - vurt
         - green earth
+        - sleeping giants
 
 - papers / essays / lectures
   - tech:
