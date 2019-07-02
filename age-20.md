@@ -158,6 +158,7 @@
     - senryuu shojo
     - dororo
     - attack on titain s3 p2
+    - one punch man s2
 
 - books
     - nonfiction:
