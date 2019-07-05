@@ -181,6 +181,8 @@
         - vurt
         - green earth
         - sleeping giants
+      - other
+        - the museum of modern love
 
 - papers / essays / lectures
   - tech:
@@ -311,6 +313,7 @@
 - random
   - got first hawaiian shirt
   - got a haircut I liked for the first time ever
+  - saw 4th of july fireworks from penthouse of 888 boylston
   - stopped distro-hopping (completed an entire semester without switching)
       - pop os
         - 18.04 -> 18.10
