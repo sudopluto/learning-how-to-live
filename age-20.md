@@ -314,7 +314,13 @@
   - got first hawaiian shirt
   - got a haircut I liked for the first time ever
   - saw 4th of july fireworks from penthouse of 888 boylston
-  - stopped distro-hopping (completed an entire semester without switching)
-      - pop os
-        - 18.04 -> 18.10
-        - 18.10 -> 19.04
+  - first time pulled over by cops (mass state troopers for burnt out taillight)
+  - linux distros:
+      - pop os 18.04 -> pop os 18.10
+      - pop os 18.10 -> pop os 19.04
+      - pop os 19.04 -> fedora 30
+  - didn't even boot up desktop
+  - laptop only / main
+      - came with a lot of physical fixes
+          - altoid tin chasis repair
+          - electrical tape lcd cable repair
