@@ -236,15 +236,17 @@
 - comics / manga
     - n/a
 
-- blogs / vlogs:
+- informal / indie content:
   - vlogs:
     - techlead
     - jarvis johnson
     - mayuko
     - joma
     - the cherno project
-  - blogs
+  - blogs:
     - stephanie hurlburt
+  - podcasts:
+    - misfits podcast
 
 - courses
   - neu
