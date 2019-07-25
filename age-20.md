@@ -171,6 +171,7 @@
       - computer science:
         - a byte of vim
         - think like a programmer
+	- essential c++
     - fiction:
       - sci-fi:
         - do androids dream of electric sheep?
