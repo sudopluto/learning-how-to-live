@@ -160,6 +160,7 @@
     - attack on titain s3 p2
     - one punch man s2
     - miru tights
+    - clannad
 
 - books
     - nonfiction:
