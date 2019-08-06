@@ -1,6 +1,7 @@
 - yay, I finally turned 20, no longer a teenager baby
 
 - beliefs
+  - i am one of the ones who will amount to something, time to start acting like it
   - on the path taken in life:
     - mom and dad grew up in a whole different environment
       - you have to stay on the "yellow brick road", or you will fall through
@@ -249,6 +250,7 @@
     - the cherno project
   - blogs:
     - stephanie hurlburt
+    - mit admin blogs
   - podcasts:
     - misfits podcast
 
