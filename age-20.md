@@ -212,6 +212,7 @@
     - generation kill
     - game of thrones
     - seinfeld
+    - euphoria
 
 - movies
     - bladerunner
