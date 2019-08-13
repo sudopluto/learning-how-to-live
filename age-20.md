@@ -162,6 +162,7 @@
     - one punch man s2
     - miru tights
     - clannad
+    - clannad after story
 
 - books
     - nonfiction:
