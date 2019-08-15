@@ -279,6 +279,10 @@
       - thoughbot vim
       - cherno cpp
       - modern c++ for c programmers (mini)
+      
+- projects
+    - mini
+        - c koans
 
 - concerts
     - whethan
