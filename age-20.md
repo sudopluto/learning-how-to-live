@@ -283,6 +283,8 @@
 - projects
     - mini
         - c koans
+	- pointer koans
+	- c++ koans #1`
 
 - concerts
     - whethan
