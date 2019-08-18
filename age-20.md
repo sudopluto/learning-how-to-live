@@ -253,8 +253,11 @@
   - blogs:
     - stephanie hurlburt
     - mit admin blogs
+    - farnam street (only mental model & best of)
+    - ness labs (skipped all the (big) brain stuff)
   - podcasts:
     - misfits podcast
+    - hardcore history (still working through it though)
 
 - courses
   - neu
