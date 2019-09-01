@@ -187,6 +187,8 @@
         - vurt
         - green earth
         - sleeping giants
+      - fantasy:
+        - a game of thrones
       - other
         - the museum of modern love
 
