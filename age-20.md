@@ -164,6 +164,8 @@
     - clannad
     - clannad after story
     - millennium actress (theater)
+    - katanagatari
+    - penguin highway
 
 - books
     - nonfiction:
