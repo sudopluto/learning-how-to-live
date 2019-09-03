@@ -178,7 +178,7 @@
       - computer science:
         - a byte of vim
         - think like a programmer
-	- essential c++
+        - essential c++
     - fiction:
       - sci-fi:
         - do androids dream of electric sheep?
@@ -189,6 +189,8 @@
         - vurt
         - green earth
         - sleeping giants
+      - fantasy:
+        - a game of thrones
       - other
         - the museum of modern love
 
@@ -252,11 +254,15 @@
     - mayuko
     - joma
     - the cherno project
+    - andreas kling
   - blogs:
     - stephanie hurlburt
     - mit admin blogs
+    - farnam street (only mental model & best of)
+    - ness labs (skipped all the (big) brain stuff)
   - podcasts:
     - misfits podcast
+    - hardcore history (still working through it though)
 
 - courses
   - neu
@@ -281,6 +287,12 @@
       - thoughbot vim
       - cherno cpp
       - modern c++ for c programmers (mini)
+      
+- projects
+    - mini
+        - c koans
+        - pointer koans
+        - c++ koans
 
 - concerts
     - whethan
