@@ -1,7 +1,7 @@
 - yay, I finally turned 20, no longer a teenager baby
 
 - beliefs
-  - i am one of the ones who will amount to something, time to start acting like it
+    - i am one of the ones who will amount to something, time to start acting like it
   - on the path taken in life:
     - mom and dad grew up in a whole different environment
       - you have to stay on the "yellow brick road", or you will fall through
@@ -334,6 +334,16 @@
     - future funk
     - cyberpunkish music
 
+- money
+    - got it for the first time
+    - made system
+        - td bank -> credit card & checking
+            - just to process income and expenses
+        - discover -> high-yield savings
+            - main parking spot for extra money
+        - td ameritrade robo -> roth ira & brokerage
+            - for retirement and for extra extra money
+
 - random
   - got first hawaiian shirt
   - got a haircut I liked for the first time ever
@@ -348,3 +358,5 @@
       - came with a lot of physical fixes
           - altoid tin chasis repair
           - electrical tape lcd cable repair
+            - ended up needing full repair
+  - first credit card!
