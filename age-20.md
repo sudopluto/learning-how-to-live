@@ -166,6 +166,7 @@
     - millennium actress (theater)
     - katanagatari
     - penguin highway
+    - summer wars
 
 - books
     - nonfiction:
