@@ -180,6 +180,7 @@
         - a byte of vim
         - think like a programmer
         - essential c++
+        - psychology of computer programming
     - fiction:
       - sci-fi:
         - do androids dream of electric sheep?
