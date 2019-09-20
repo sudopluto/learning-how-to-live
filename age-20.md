@@ -177,12 +177,13 @@
         - you don't have to say you love me
       - opinion:
         - amusing ourseleves to death
-      - computer science:
+      - computer science / tech / my jorb:
         - a byte of vim
         - think like a programmer
         - essential c++
         - psychology of computer programming
-    - fiction:
+        - how to build a career in tech
+    - fichion:
       - sci-fi:
         - do androids dream of electric sheep?
         - many Phillip K Dick stories
