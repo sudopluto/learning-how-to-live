@@ -305,6 +305,10 @@
 
 - career
     - accepted co-op at Phillips (test platform software engineer)
+        - Subodh (my boss) ended up leaving half way through
+            - was a pretty cool dude, awesome first boss
+        - learned the value of having good people
+        - learned the value of having a good engineering culture
 
 - places
     - lived right across from the MFA in a bunk bed
@@ -353,14 +357,22 @@
   - got a haircut I liked for the first time ever
   - saw 4th of july fireworks from penthouse of 888 boylston
   - first time pulled over by cops (mass state troopers for burnt out taillight)
+  - converted over to mechanical keyboard
+      - basic gigabyte one with cherry mx blues 
   - linux distros:
       - pop os 18.04 -> pop os 18.10
       - pop os 18.10 -> pop os 19.04
       - pop os 19.04 -> fedora 30
   - didn't even boot up desktop
   - laptop only / main
-      - came with a lot of physical fixes
-          - altoid tin chasis repair
-          - electrical tape lcd cable repair
-            - ended up needing full repair
+      - old dell 7559 (broken beyond full repair)
+          - came with a lot of physical fixes
+              - altoid tin chasis repair
+              - electrical tape lcd cable repair
+                  - ended up needing new cable
+                  - new cable shorted and burnt out port on mobo
+              - ended up being dedicated tv laptop
+      - got a new laptop: thinkpad t480
+          - first thinkpad!
+          - first non-gaming focused computer!
   - first credit card!
