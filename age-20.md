@@ -167,6 +167,7 @@
     - katanagatari
     - penguin highway
     - summer wars
+    - promare (theater)
 
 - books
     - nonfiction:
