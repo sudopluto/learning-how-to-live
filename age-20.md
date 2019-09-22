@@ -168,6 +168,11 @@
     - penguin highway
     - summer wars
     - promare (theater)
+    - samurai champloo
+    - kanata no astra
+    - joshikousei no mudazukai
+    - dumbbell nan kilo moteru?
+    - araburu kisetsu no otome-domo yo
 
 - books
     - nonfiction:
@@ -264,6 +269,8 @@
     - mit admin blogs
     - farnam street (only mental model & best of)
     - ness labs (skipped all the (big) brain stuff)
+    - lesswrong
+    - putanumonit
   - podcasts:
     - misfits podcast
     - hardcore history (still working through it though)
