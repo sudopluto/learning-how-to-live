@@ -229,6 +229,7 @@
     - game of thrones
     - seinfeld
     - euphoria
+    - kingdom
 
 - movies
     - bladerunner
