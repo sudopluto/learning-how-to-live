@@ -188,6 +188,7 @@
         - essential c++
         - psychology of computer programming
         - how to build a career in tech
+        - the pragmatic programmer
     - fichion:
       - sci-fi:
         - do androids dream of electric sheep?
