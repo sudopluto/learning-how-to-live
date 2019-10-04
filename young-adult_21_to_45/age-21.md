@@ -3,3 +3,7 @@
 - books
   - computer science & software engineering
     - the mythical man-month
+    
+- anime
+  - show
+    - zankyou no terror
