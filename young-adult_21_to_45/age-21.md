@@ -9,3 +9,4 @@
 - anime
   - show
     - zankyou no terror
+    - gurren lagann
