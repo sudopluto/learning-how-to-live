@@ -11,3 +11,5 @@
   - show
     - zankyou no terror
     - gurren lagann
+  - movie
+    - ghost in the shell
