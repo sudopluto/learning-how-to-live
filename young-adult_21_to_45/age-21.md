@@ -3,6 +3,7 @@
 - books
   - computer science & software engineering
     - the mythical man-month
+    - the practice of programming
   - dating
     - models
     - mate
