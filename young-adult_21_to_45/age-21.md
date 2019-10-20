@@ -8,6 +8,9 @@
     - models
     - mate
     
+- manga
+  - neon genesis evangelion
+
 - anime
   - show
     - zankyou no terror
