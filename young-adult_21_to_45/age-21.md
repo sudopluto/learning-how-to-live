@@ -4,6 +4,7 @@
   - computer science & software engineering
     - the mythical man-month
     - the practice of programming
+    - learning to learn
   - dating
     - models
     - mate
