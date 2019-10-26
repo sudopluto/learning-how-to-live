@@ -18,3 +18,5 @@
     - gurren lagann
   - movie
     - ghost in the shell
+    - psycho-pass: sinners of the system (all)
+      - case 3 is really a mood, want to get fit and go nepal now
