@@ -5,6 +5,8 @@
     - the mythical man-month
     - the practice of programming
     - learning to learn
+  - other technical (math, etc)
+    - thinking strategically
   - dating
     - models
     - mate
