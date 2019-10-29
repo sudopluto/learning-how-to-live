@@ -11,6 +11,10 @@
     - models
     - mate
     
+- courses
+  - online
+    - ubc softconst1
+    
 - manga
   - neon genesis evangelion
 
