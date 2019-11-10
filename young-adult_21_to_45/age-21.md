@@ -22,6 +22,7 @@
   - show
     - zankyou no terror
     - gurren lagann
+    - ghost in the shell sac
   - movie
     - ghost in the shell
     - psycho-pass: sinners of the system (all)
