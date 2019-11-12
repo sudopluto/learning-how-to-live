@@ -14,7 +14,7 @@
 - courses
   - online
     - ubc softconst1
-    - google tech dev: foundations of programming
+    - google tech dev: foundations & advanced programming
     
 - manga
   - neon genesis evangelion
