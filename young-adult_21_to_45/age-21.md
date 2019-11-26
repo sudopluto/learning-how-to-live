@@ -11,6 +11,8 @@
     - models
     - mate
     - mate (reread)
+  - fiction
+    - the paper menagerie
     
 - courses
   - online
