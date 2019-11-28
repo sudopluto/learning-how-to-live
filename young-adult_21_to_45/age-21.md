@@ -28,6 +28,7 @@
     - gurren lagann
     - ghost in the shell sac
     - ghost in the shell sac 2nd gig
+    - paranoia agent
   - movie
     - ghost in the shell
     - psycho-pass: sinners of the system (all)
