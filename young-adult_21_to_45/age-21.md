@@ -22,6 +22,10 @@
       - ubc softconst1
       - google tech dev: foundations & advanced programming
       - ubc softconst2
+      
+- papers & similar 
+  - computer science & software engineering
+    - modular c
     
 - manga
   - neon genesis evangelion
