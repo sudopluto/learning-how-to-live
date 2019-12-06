@@ -18,12 +18,12 @@
     
 - courses
   - online
-    - comp sci
+    - computer science and software engineering
       - ubc softconst1
       - google tech dev: foundations & advanced programming
       - ubc softconst2
       
-- papers & similar 
+- papers & essays 
   - computer science & software engineering
     - modular c
     
