@@ -13,6 +13,8 @@
     - mate (reread)
   - fiction
     - the paper menagerie
+  - calisthenics
+    - naked warrior
     
 - courses
   - online
