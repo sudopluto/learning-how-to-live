@@ -37,6 +37,7 @@
     - ghost in the shell sac
     - ghost in the shell sac 2nd gig
     - paranoia agent
+    - planetes
   - movie
     - ghost in the shell
     - psycho-pass: sinners of the system (all)
