@@ -15,6 +15,8 @@
     - the paper menagerie
   - calisthenics
     - naked warrior
+  - art
+    - wabi-sabi for designers, artists, poets & philosophers
     
 - courses
   - online
