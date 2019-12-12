@@ -15,6 +15,7 @@
     - the paper menagerie
   - calisthenics
     - naked warrior
+    - convict conditioning
   - art
     - wabi-sabi for designers, artists, poets & philosophers
     
