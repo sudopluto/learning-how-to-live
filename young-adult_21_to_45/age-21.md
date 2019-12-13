@@ -41,9 +41,10 @@
     - ghost in the shell sac 2nd gig
     - paranoia agent
     - planetes
+    - psycho-pass s3
   - movie
     - ghost in the shell
-    - psycho-pass: sinners of the system (all)
+    - psycho-pass: sinners of the system (all)how to get a job in space software engineering
       - case 3 is really a mood, want to get fit and go nepal now
     - konosuba the movie (in theater)
     - ghost in the shell sac sss
