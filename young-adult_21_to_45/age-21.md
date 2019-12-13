@@ -42,6 +42,7 @@
     - paranoia agent
     - planetes
     - psycho-pass s3
+    - dr stone
   - movie
     - ghost in the shell
     - psycho-pass: sinners of the system (all)
