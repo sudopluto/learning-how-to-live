@@ -44,8 +44,7 @@
     - psycho-pass s3
   - movie
     - ghost in the shell
-    - psycho-pass: sinners of the system (all)how to get a job in space software engineering
-      - case 3 is really a mood, want to get fit and go nepal now
+    - psycho-pass: sinners of the system (all)
     - konosuba the movie (in theater)
     - ghost in the shell sac sss
     - ghost in the shell 2: innocence
