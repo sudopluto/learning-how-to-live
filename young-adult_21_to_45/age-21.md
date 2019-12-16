@@ -4,13 +4,13 @@
   - computer science & software engineering
     - the mythical man-month
     - the practice of programming
-    - learning to learn
+    - the art of doing science and engineering: learning to learn
   - other technical (math, etc)
     - thinking strategically
   - dating
     - models
-    - mate
-    - mate (reread)
+    - mate: become the man women want
+    - mate: become the man women want (reread)
   - fiction
     - the paper menagerie
   - calisthenics
