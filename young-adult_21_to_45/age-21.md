@@ -25,6 +25,7 @@
       - ubc softconst1
       - google tech dev: foundations & advanced programming
       - ubc softconst2
+      - ubc softeng1
       
 - papers & essays 
   - computer science & software engineering
