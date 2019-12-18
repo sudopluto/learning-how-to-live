@@ -5,6 +5,7 @@
     - the mythical man-month
     - the practice of programming
     - the art of doing science and engineering: learning to learn
+    - poignant guide to ruby
   - other technical (math, etc)
     - thinking strategically
   - dating
