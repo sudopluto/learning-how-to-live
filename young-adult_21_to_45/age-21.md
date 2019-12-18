@@ -19,6 +19,7 @@
     - convict conditioning
   - art
     - wabi-sabi for designers, artists, poets & philosophers
+    - in praise of shadows
     
 - courses
   - online
