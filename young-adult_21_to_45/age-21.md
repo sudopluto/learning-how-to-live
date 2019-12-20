@@ -54,3 +54,13 @@
     - ghost in the shell 2: innocence
     - tokyo godfathers
     - tekkonkinkreet
+
+- career
+  - finished first co-op at Philips
+  
+- completed goals
+  - watched all ghost in the shell
+  - watched all satoshi kon
+  - completed first internship
+  
+  
