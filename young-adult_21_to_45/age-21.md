@@ -55,6 +55,7 @@
     - ghost in the shell 2: innocence
     - tokyo godfathers
     - tekkonkinkreet
+    - puella magi madoka magica part 3: rebellion
 
 - career
   - finished first co-op at Philips
