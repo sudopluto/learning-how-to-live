@@ -24,10 +24,13 @@
 - courses
   - online
     - computer science and software engineering
-      - ubc softconst1
+      - ubc software dev micro masters
+        - softconst1
+        - softconst2
+        - softeng1
+        - softengprj
       - google tech dev: foundations & advanced programming
-      - ubc softconst2
-      - ubc softeng1
+      
       
 - papers & essays 
   - computer science & software engineering
@@ -58,11 +61,11 @@
     - puella magi madoka magica part 3: rebellion
 
 - career
-  - finished first co-op at Philips
+  - finished first co-op at philips
   
 - completed goals
   - watched all ghost in the shell
-  - watched all satoshi kon
+  - watched all satoshi kon anime
   - completed first internship
-  
+  - finished ubc software dev micromasters
   
