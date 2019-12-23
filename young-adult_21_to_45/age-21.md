@@ -20,6 +20,8 @@
   - art
     - wabi-sabi for designers, artists, poets & philosophers
     - in praise of shadows
+  - rationality
+    - harry potter and the methods of rationality
     
 - courses
   - online
