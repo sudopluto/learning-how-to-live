@@ -61,6 +61,9 @@
     - tokyo godfathers
     - tekkonkinkreet
     - puella magi madoka magica part 3: rebellion
+    
+- tv shows
+  - mr robot s4
 
 - career
   - finished first co-op at philips
