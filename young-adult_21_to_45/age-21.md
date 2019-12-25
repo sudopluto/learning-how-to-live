@@ -20,6 +20,7 @@
   - art
     - wabi-sabi for designers, artists, poets & philosophers
     - in praise of shadows
+    - zen in the art of archery
   - rationality
     - harry potter and the methods of rationality
     
