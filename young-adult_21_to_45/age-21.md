@@ -33,7 +33,7 @@
         - softeng1
         - softengprj
       - google tech dev: foundations & advanced programming
-      
+      - mastering the software engineering interview
       
 - papers & essays 
   - computer science & software engineering
