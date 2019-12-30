@@ -34,6 +34,8 @@
         - softengprj
       - google tech dev: foundations & advanced programming
       - mastering the software engineering interview
+    - other
+      - stayingfit
       
 - papers & essays 
   - computer science & software engineering
