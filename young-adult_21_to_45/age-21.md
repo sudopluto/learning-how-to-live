@@ -36,6 +36,7 @@
       - mastering the software engineering interview
     - other
       - stayingfit
+      - designing your life
       
 - papers & essays 
   - computer science & software engineering
