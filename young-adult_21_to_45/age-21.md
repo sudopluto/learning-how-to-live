@@ -46,6 +46,12 @@
   - neon genesis evangelion
 
 - anime
+  - i think i've actually outgrown the medium, anime is now on hiatus
+  - best of / essentials
+    - watch at least once for animation + music, then read novel / manga version
+      - evangelion
+      - tatami galaxy
+      - monogatari
   - show
     - zankyou no terror
     - gurren lagann
