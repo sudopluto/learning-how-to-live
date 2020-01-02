@@ -76,6 +76,8 @@
     
 - tv shows
   - mr robot s4
+  - fleabag s1
+  - fleabag s2
 
 - career
   - finished first co-op at philips
