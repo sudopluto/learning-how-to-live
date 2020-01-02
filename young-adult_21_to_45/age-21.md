@@ -47,11 +47,6 @@
   - neon genesis evangelion
 
 - anime
-  - best of / essentials
-    - watch at least once for direction / animation / music, then read novel / manga version
-      - evangelion
-      - tatami galaxy
-      - monogatari
   - show
     - zankyou no terror
     - gurren lagann
