@@ -47,7 +47,6 @@
   - neon genesis evangelion
 
 - anime
-  - i think i've actually outgrown the medium, anime is now on hiatus
   - best of / essentials
     - watch at least once for direction / animation / music, then read novel / manga version
       - evangelion
