@@ -73,6 +73,12 @@
   - fleabag s1
   - fleabag s2
 
+- movies
+  - parasite (in theater)
+  
+- podcasts
+  - mating grounds
+  
 - career
   - finished first co-op at philips
   
