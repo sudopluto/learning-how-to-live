@@ -15,6 +15,7 @@
   - fiction
     - the paper menagerie
     - tatami galaxy
+    - the night is short, walk on girl
   - calisthenics
     - naked warrior
     - convict conditioning
