@@ -68,6 +68,7 @@
     - tokyo godfathers
     - tekkonkinkreet
     - puella magi madoka magica part 3: rebellion
+    - weathering with you (in theater)
     
 - tv shows
   - mr robot s4
