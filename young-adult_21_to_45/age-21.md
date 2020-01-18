@@ -59,6 +59,8 @@
     - dr stone
     - puella magi madoka magica
     - revolutionary girl utena
+    - aggretsuko s1
+    - aggretsuko s2
   - movie
     - ghost in the shell
     - psycho-pass: sinners of the system (all)
