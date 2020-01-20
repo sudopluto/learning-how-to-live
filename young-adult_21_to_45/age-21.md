@@ -76,6 +76,7 @@
   - mr robot s4
   - fleabag s1
   - fleabag s2
+  - homecoming
 
 - movies
   - parasite (in theater)
