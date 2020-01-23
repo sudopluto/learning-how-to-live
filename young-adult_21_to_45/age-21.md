@@ -16,6 +16,7 @@
     - the paper menagerie
     - tatami galaxy
     - the night is short, walk on girl
+    - the catcher in the rye
   - calisthenics
     - naked warrior
     - convict conditioning
