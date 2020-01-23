@@ -81,6 +81,8 @@
 
 - movies
   - parasite (in theater)
+  - avengers: infinity war
+  - avengers: end game
   
 - podcasts
   - mating grounds
