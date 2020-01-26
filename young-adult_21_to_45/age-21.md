@@ -62,6 +62,7 @@
     - revolutionary girl utena
     - aggretsuko s1
     - aggretsuko s2
+    - kyousougiga
   - movie
     - ghost in the shell
     - psycho-pass: sinners of the system (all)
