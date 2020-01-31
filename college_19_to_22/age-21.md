@@ -26,6 +26,7 @@
     - zen in the art of archery
   - rationality
     - harry potter and the methods of rationality
+    - designing your life
     
 - courses
   - online
