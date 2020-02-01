@@ -64,6 +64,7 @@
     - aggretsuko s1
     - aggretsuko s2
     - kyousougiga
+    - pop team epic + special 
   - movie
     - ghost in the shell
     - psycho-pass: sinners of the system (all)
