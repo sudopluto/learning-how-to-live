@@ -82,6 +82,7 @@
   - fleabag s2
   - homecoming
   - maniac
+  - can't cope won't cope
 
 - movies
   - parasite (in theater)
