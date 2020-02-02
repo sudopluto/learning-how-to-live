@@ -81,6 +81,7 @@
   - fleabag s1
   - fleabag s2
   - homecoming
+  - maniac
 
 - movies
   - parasite (in theater)
