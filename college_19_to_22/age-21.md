@@ -105,3 +105,5 @@
   - got to experience being a commuter student
   - grew my hair out super long, got sick of it, cut it short
   - got into a summer study aboard program in south korea
+  - finally grew old of anime / tv, since no longer have any depression that
+    i need a distraction from
