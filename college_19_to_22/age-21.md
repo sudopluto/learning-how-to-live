@@ -17,6 +17,7 @@
     - tatami galaxy
     - the night is short, walk on girl
     - the catcher in the rye
+    - penguin highway
   - calisthenics
     - naked warrior
     - convict conditioning
@@ -100,6 +101,7 @@
   - watched all satoshi kon anime
   - completed first internship
   - finished ubc software dev micromasters
+  - read all tomihiko morimi books
   
 - "firsts" / notable stuff
   - got to experience being a commuter student
@@ -107,3 +109,5 @@
   - got into a summer study aboard program in south korea
   - finally grew old of anime / tv, since no longer have any depression that
     i need a distraction from
+  - went to first career fair (apple), was a nervous puddle, but did find out
+    that i don't need to pursue web dev, that i can pursue lower level stuff
