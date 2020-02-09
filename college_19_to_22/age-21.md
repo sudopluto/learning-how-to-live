@@ -66,7 +66,8 @@
     - aggretsuko s1
     - aggretsuko s2
     - kyousougiga
-    - pop team epic + special 
+    - pop team epic + special  
+    - vinland saga  
   - movie
     - ghost in the shell
     - psycho-pass: sinners of the system (all)
@@ -108,7 +109,3 @@
   - got to experience being a commuter student
   - grew my hair out super long, got sick of it, cut it short
   - got into a summer study aboard program in south korea
-  - finally grew old of anime / tv, since no longer have any depression that
-    i need a distraction from
-  - went to first career fair (apple), was a nervous puddle, but did find out
-    that i don't need to pursue web dev, that i can pursue lower level stuff
