@@ -78,6 +78,9 @@
     - tekkonkinkreet
     - puella magi madoka magica part 3: rebellion
     - weathering with you (in theater)
+    - evangelion 1.11 (rewatch)
+    - evangelion 2.22 (rewatch)
+    - evangelion 3.33 (rewatch)
     
 - tv shows
   - mr robot s4
@@ -86,6 +89,7 @@
   - maniac
   - can't cope won't cope
   - inbetweeners
+  - fresh meat
 
 - movies
   - parasite (in theater)
