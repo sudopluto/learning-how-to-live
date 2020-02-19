@@ -19,6 +19,7 @@
     - the catcher in the rye
     - penguin highway
     - siddhartha
+    - slaughter-house-five
   - calisthenics
     - naked warrior
     - convict conditioning
