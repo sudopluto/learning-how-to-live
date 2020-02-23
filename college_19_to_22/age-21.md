@@ -98,6 +98,8 @@
   - avengers: endgame
   - inbetweeners 2
   - blue hour (in theater)
+  - one cut of the dead
+  - lost in translation
   
 - podcasts
   - mating grounds
