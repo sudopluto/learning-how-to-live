@@ -48,6 +48,8 @@
 - papers & essays 
   - computer science & software engineering
     - modular c
+  - relationships (friends, romance, family)
+    - kitestring
     
 - manga
   - neon genesis evangelion
@@ -106,6 +108,7 @@
   
 - podcasts
   - mating grounds
+  - radio wonderland
   
 - career
   - finished first co-op at philips
