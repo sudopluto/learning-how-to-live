@@ -124,4 +124,5 @@
   - got to experience being a commuter student
   - grew my hair out super long, got sick of it, cut it short
   - got into a summer study aboard program in south korea
+    - yeah it was going good until was canceled because coronavirus
   - turned down a tech job offer
