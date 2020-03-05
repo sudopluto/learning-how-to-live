@@ -41,6 +41,7 @@
         - softengprj
       - google tech dev: foundations & advanced programming
       - mastering the software engineering interview
+      - mit missing semester
     - other
       - stayingfit
       - designing your life
