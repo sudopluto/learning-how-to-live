@@ -20,6 +20,7 @@
     - penguin highway
     - siddhartha
     - slaughter-house-five
+    - bakemonogatari part1
   - calisthenics
     - naked warrior
     - convict conditioning
