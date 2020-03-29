@@ -73,6 +73,7 @@
     - kyousougiga
     - pop team epic + special  
     - vinland saga  
+    - psycho-pass 3: first inspector
   - movie
     - ghost in the shell
     - psycho-pass: sinners of the system (all)
