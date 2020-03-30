@@ -21,6 +21,7 @@
     - siddhartha
     - slaughter-house-five
     - bakemonogatari part1
+    - romcom snafu part1
   - calisthenics
     - naked warrior
     - convict conditioning
