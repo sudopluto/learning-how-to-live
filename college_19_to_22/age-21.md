@@ -139,3 +139,4 @@
     - i need to rewatch some of them
     - i love french now, started listening to french songs
   - had some gummies, still felt it the next day lol
+  - somehow managed to NOT land a co-op before classes ended
