@@ -114,6 +114,7 @@
 - podcasts
   - mating grounds
   - radio wonderland
+  - phoenix radio
   
 - career
   - finished first co-op at philips
@@ -124,6 +125,9 @@
   - completed first internship
   - finished ubc software dev micromasters
   - read all tomihiko morimi books
+  - gummies
+  - file my own taxes
+  - learned just enough money / investing
   
 - "firsts" / notable stuff
   - got to experience being a commuter student
@@ -131,3 +135,7 @@
   - got into a summer study aboard program in south korea
     - yeah it was going good until was canceled because coronavirus
   - turned down a tech job offer
+  - explored erotic movies and gaspar noe movies
+    - i need to rewatch some of them
+    - i love french now, started listening to french songs
+  - had some gummies, still felt it the next day lol
