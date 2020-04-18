@@ -75,6 +75,7 @@
     - pop team epic + special  
     - vinland saga  
     - psycho-pass 3: first inspector
+    - ping pong the animation (rewatch)
   - movie
     - ghost in the shell
     - psycho-pass: sinners of the system (all)
