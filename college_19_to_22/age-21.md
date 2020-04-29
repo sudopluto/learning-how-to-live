@@ -22,6 +22,7 @@
     - slaughter-house-five
     - bakemonogatari part1
     - romcom snafu part1
+    - clash of kings
   - calisthenics
     - naked warrior
     - convict conditioning
