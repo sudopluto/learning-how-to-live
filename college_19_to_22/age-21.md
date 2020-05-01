@@ -21,8 +21,9 @@
     - siddhartha
     - slaughter-house-five
     - bakemonogatari part1
-    - romcom snafu part1
+    - romcom snafu vol 1
     - clash of kings
+    - romcom snafu vol 2
   - calisthenics
     - naked warrior
     - convict conditioning
