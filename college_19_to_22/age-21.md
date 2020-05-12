@@ -6,6 +6,7 @@
     - the practice of programming
     - the art of doing science and engineering: learning to learn
     - poignant guide to ruby
+    - a tour of go
   - other technical (math, etc)
     - thinking strategically
   - dating
