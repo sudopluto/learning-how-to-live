@@ -150,4 +150,4 @@
     - i love french now, started listening to french songs
   - had some gummies, still felt it the next day lol
   - somehow managed to NOT land a co-op before classes ended
-  - kicked competative video game and porn addictions
+  - kicked competitive video game and porn addictions
