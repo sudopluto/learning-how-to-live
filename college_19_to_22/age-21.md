@@ -84,6 +84,8 @@
     - vinland saga  
     - psycho-pass 3: first inspector
     - ping pong the animation (rewatch)
+    - demon slayer
+    - kyousougiga (rewatch)
   - movie
     - ghost in the shell
     - psycho-pass: sinners of the system (all)
@@ -151,3 +153,5 @@
   - had some gummies, still felt it the next day lol
   - somehow managed to NOT land a co-op before classes ended
   - kicked competitive video game and porn addictions
+  - realized i forgot how to anime protag mad, have been feeling shame instead
+  - co-op at microsoft? thanks mom!
