@@ -86,6 +86,7 @@
     - ping pong the animation (rewatch)
     - demon slayer
     - kyousougiga (rewatch)
+    - boku no hero s4
   - movie
     - ghost in the shell
     - psycho-pass: sinners of the system (all)
