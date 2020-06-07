@@ -35,6 +35,8 @@
   - rationality
     - harry potter and the methods of rationality
     - designing your life
+  - therapy 
+    - complex ptsd
     
 - courses
   - online
