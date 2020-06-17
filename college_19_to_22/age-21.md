@@ -89,6 +89,7 @@
     - demon slayer
     - kyousougiga (rewatch)
     - boku no hero s4
+    - fire force
   - movie
     - ghost in the shell
     - psycho-pass: sinners of the system (all)
