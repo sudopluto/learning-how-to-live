@@ -148,6 +148,8 @@
   - gummies
   - file my own taxes
   - learned just enough money / investing
+  - got into faang
+  - paid off debt to parents
   
 - "firsts" / notable stuff
   - got to experience being a commuter student
