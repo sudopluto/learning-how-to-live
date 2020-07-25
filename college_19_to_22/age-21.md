@@ -113,6 +113,7 @@
   - inbetweeners
   - fresh meat
   - never have i ever
+  - crashing
 
 - movies
   - parasite (in theater)
@@ -159,3 +160,8 @@
   - kicked competitive video game and porn addictions
   - realized i forgot how to anime protag mad, have been feeling shame instead
   - co-op at microsoft? thanks mom!
+  - grew hair long again
+  - realized that with ms co-op, my debt to parents was finally paid off
+    - meaning the burden of expectations was finally lifted
+    - could finally live the life i wanted guilt free
+    - fleabag-esque messy 20s here i come baby
