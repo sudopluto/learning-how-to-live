@@ -90,6 +90,9 @@
     - kyousougiga (rewatch)
     - boku no hero s4
     - fire force
+    - kaguya s2
+    - sing yesterday
+    - tower of god 
   - movie
     - ghost in the shell
     - psycho-pass: sinners of the system (all)
