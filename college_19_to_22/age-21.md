@@ -25,6 +25,7 @@
     - romcom snafu vol 1
     - clash of kings
     - romcom snafu vol 2
+    - storm of swords
   - calisthenics
     - naked warrior
     - convict conditioning
