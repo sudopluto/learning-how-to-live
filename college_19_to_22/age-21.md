@@ -94,6 +94,8 @@
     - kaguya s2
     - sing yesterday
     - tower of god 
+    - my little monster
+    - romcom snafu s3
   - movie
     - ghost in the shell
     - psycho-pass: sinners of the system (all)
@@ -173,3 +175,4 @@
     - meaning the burden of expectations was finally lifted
     - could finally live the life i wanted guilt free
     - fleabag-esque messy 20s here i come baby
+  - guess i started a bit early, had breakdown, quit ms, started therapy lol
