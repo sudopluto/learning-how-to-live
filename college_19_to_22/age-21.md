@@ -143,6 +143,7 @@
   
 - career
   - finished first co-op at philips
+  - got and was let go of second co-op at microsoft (mental health issues)
   
 - completed goals
   - watched all ghost in the shell
