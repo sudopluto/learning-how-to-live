@@ -156,24 +156,24 @@
   - learned just enough money / investing
   - got into faang
   - paid off debt to parents
+  - mostly reconnected w/ wboro friends
   
 - "firsts" / notable stuff
   - got to experience being a commuter student
   - grew my hair out super long, got sick of it, cut it short
   - got into a summer study aboard program in south korea
     - yeah it was going good until was canceled because coronavirus
-  - turned down a tech job offer
+  - turned down a tech job offer (bose)
   - explored erotic movies and gaspar noe movies
     - i need to rewatch some of them
     - i love french now, started listening to french songs
   - had some gummies, still felt it the next day lol
   - somehow managed to NOT land a co-op before classes ended
-  - kicked competitive video game and porn addictions
-  - realized i forgot how to anime protag mad, have been feeling shame instead
   - co-op at microsoft? thanks mom!
   - grew hair long again
   - realized that with ms co-op, my debt to parents was finally paid off
     - meaning the burden of expectations was finally lifted
     - could finally live the life i wanted guilt free
     - fleabag-esque messy 20s here i come baby
+  - stayed for 4 days in a cabin in vermont w/ robo
   - guess i started a bit early, had breakdown, quit ms, started therapy lol
