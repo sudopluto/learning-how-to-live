@@ -7,3 +7,6 @@
 - "firsts" / notable stuff
   - did a cross country road-trip to sf (through the south)
   - visited sf
+  - finally snapped
+    - 3 hr manhunt from police in woods
+    - spent 4 days in psych ward
