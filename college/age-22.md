@@ -5,6 +5,8 @@
     - colorless tsukuru tazaki and his years of pilgrimage
   - spiritual
     - bhagavad gita (w/out interpretation)
+  - non-fiction
+    - the drama of the gifted child
 
 - anime
   - god of high school
