@@ -10,6 +10,7 @@
 
 - anime
   - god of high school
+  - nichijou
 
 - movies
   - burning
