@@ -4,6 +4,7 @@
   - fiction
     - colorless tsukuru tazaki and his years of pilgrimage
     - a feast for crows
+    - welcome to the monkey house
   - spiritual
     - bhagavad gita (w/out interpretation)
   - non-fiction
