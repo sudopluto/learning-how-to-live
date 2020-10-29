@@ -9,6 +9,7 @@
     - bhagavad gita (w/out interpretation)
   - non-fiction
     - the drama of the gifted child
+    - the body keeps the score
 
 - anime
   - god of high school
