@@ -10,6 +10,7 @@
   - non-fiction
     - the drama of the gifted child
     - the body keeps the score
+    - understanding and treating chronic shame
 
 - anime
   - god of high school
@@ -17,6 +18,7 @@
 
 - movies
   - burning
+  - #alive
 
 - "firsts" / notable stuff
   - did a cross country road-trip to sf (through the south)
