@@ -19,6 +19,9 @@
 - movies
   - burning
   - #alive
+  
+- video games
+  - uncharted
 
 - "firsts" / notable stuff
   - did a cross country road-trip to sf (through the south)
@@ -26,3 +29,5 @@
   - finally snapped
     - 3 hr manhunt from police in woods
     - spent 4 days in psych ward
+  - started legit therapy
+  - realized zuko-ness
