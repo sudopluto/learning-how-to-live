@@ -5,6 +5,7 @@
     - colorless tsukuru tazaki and his years of pilgrimage
     - a feast for crows
     - welcome to the monkey house
+    - a dance with dragons
   - spiritual
     - bhagavad gita (w/out interpretation)
   - non-fiction
@@ -34,3 +35,5 @@
     - spent 4 days in psych ward
   - started legit therapy
   - realized zuko-ness
+  - started working at target part time
+  - finished game of thrones books
