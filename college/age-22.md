@@ -21,11 +21,15 @@
   - burning
   - #alive
   
+- shows
+  - industry
+  
 - video games
   - uncharted
   - uncharted 2
   - uncharted 3
   - uncharted 4
+  - uncharted lost legacy
 
 - "firsts" / notable stuff
   - did a cross country road-trip to sf (through the south)
