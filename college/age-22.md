@@ -41,3 +41,4 @@
   - realized zuko-ness
   - started working at target part time
   - finished game of thrones books
+  - learned how to drive manual
