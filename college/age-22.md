@@ -20,6 +20,7 @@
 - movies
   - burning
   - #alive
+  - 1917
   
 - shows
   - industry
@@ -30,6 +31,7 @@
   - uncharted 3
   - uncharted 4
   - uncharted lost legacy
+  - witcher 3
 
 - "firsts" / notable stuff
   - did a cross country road-trip to sf (through the south)
@@ -40,5 +42,6 @@
   - started legit therapy
   - realized zuko-ness
   - started working at target part time
+    - and quit from target for the first time
   - finished game of thrones books
   - learned how to drive manual
