@@ -21,6 +21,8 @@
   - burning
   - #alive
   - 1917
+  - spiderman far from home
+  - the white tiger
   
 - shows
   - industry
