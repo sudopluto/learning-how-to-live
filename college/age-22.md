@@ -12,6 +12,7 @@
     - the drama of the gifted child
     - the body keeps the score
     - understanding and treating chronic shame
+    - the defining decade
 
 - anime
   - god of high school
@@ -47,3 +48,4 @@
     - and quit from target for the first time
   - finished game of thrones books
   - learned how to drive manual
+  - baked a baguette or two
