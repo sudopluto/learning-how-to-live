@@ -17,6 +17,7 @@
 - anime
   - god of high school
   - nichijou
+  - dr stone s2
 
 - movies
   - burning
