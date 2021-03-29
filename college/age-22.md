@@ -18,6 +18,7 @@
   - god of high school
   - nichijou
   - dr stone s2
+  - attack on titian s4 p1
 
 - movies
   - burning
