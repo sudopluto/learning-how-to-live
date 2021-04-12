@@ -6,6 +6,7 @@
     - a feast for crows
     - welcome to the monkey house
     - a dance with dragons
+    - the last wish
   - spiritual
     - bhagavad gita (w/out interpretation)
   - non-fiction
@@ -19,6 +20,8 @@
   - nichijou
   - dr stone s2
   - attack on titian s4 p1
+  - wonder egg priority
+  - the way of househusband
 
 - movies
   - burning
@@ -26,6 +29,7 @@
   - 1917
   - spiderman far from home
   - the white tiger
+  - voyagers
   
 - shows
   - industry
@@ -37,6 +41,7 @@
   - uncharted 4
   - uncharted lost legacy
   - witcher 3
+  - doom
 
 - "firsts" / notable stuff
   - did a cross country road-trip to sf (through the south)
