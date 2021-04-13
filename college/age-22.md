@@ -22,6 +22,7 @@
   - attack on titian s4 p1
   - wonder egg priority
   - the way of househusband
+  - dota dragons blood
 
 - movies
   - burning
