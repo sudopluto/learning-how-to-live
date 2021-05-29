@@ -57,3 +57,8 @@
   - finished game of thrones books
   - learned how to drive manual
   - baked a baguette or two
+  - restored mom's car
+  - visted yosemite
+  - moved into first off-campus apt (only dude?)
+  - went to first warehouse rave
+  - survived covid
