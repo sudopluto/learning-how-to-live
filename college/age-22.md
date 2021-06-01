@@ -34,6 +34,8 @@
   
 - shows
   - industry
+  - invincible
+  - terrace house tokyo
   
 - video games
   - uncharted
