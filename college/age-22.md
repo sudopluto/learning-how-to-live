@@ -2,7 +2,7 @@
 
 - books
   - fiction
-    - colorless tsukuru tazaki and his years of pilgrimage
+    - colorless tsukuru tazaki and his years of pilgrimage (up there with atla and witcher with mood)
     - a feast for crows
     - welcome to the monkey house
     - a dance with dragons
@@ -31,11 +31,13 @@
   - spiderman far from home
   - the white tiger
   - voyagers
+  - nobody
   
 - shows
   - industry
   - invincible
   - terrace house tokyo
+  - witcher netflix
   
 - video games
   - uncharted
