@@ -7,6 +7,7 @@
     - welcome to the monkey house
     - a dance with dragons
     - the last wish
+    - the sword of destiny
   - spiritual
     - bhagavad gita (w/out interpretation)
   - non-fiction
@@ -66,3 +67,4 @@
   - moved into first off-campus apt (only dude?)
   - went to first warehouse rave
   - survived covid
+  - went scuba diving in the bvi (grand blue irl bby)
