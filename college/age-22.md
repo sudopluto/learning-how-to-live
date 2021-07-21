@@ -8,6 +8,7 @@
     - a dance with dragons
     - the last wish
     - the sword of destiny
+    - blood of elves
   - spiritual
     - bhagavad gita (w/out interpretation)
   - non-fiction
@@ -24,6 +25,7 @@
   - wonder egg priority
   - the way of househusband
   - dota dragons blood
+  - jujutsu kaisen
 
 - movies
   - burning
