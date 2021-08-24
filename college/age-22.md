@@ -26,6 +26,8 @@
   - the way of househusband
   - dota dragons blood
   - jujutsu kaisen
+  - evangelion 3.0 + 1.0
+  - witcher: nightmare of the wolf
 
 - movies
   - burning
@@ -70,3 +72,4 @@
   - went to first warehouse rave
   - survived covid
   - went scuba diving in the bvi (grand blue irl bby)
+  - witnessed the end of evangelion
