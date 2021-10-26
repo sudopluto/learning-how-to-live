@@ -28,6 +28,7 @@
   - jujutsu kaisen
   - evangelion 3.0 + 1.0
   - witcher: nightmare of the wolf
+  - nomad megalo box s2
 
 - movies
   - burning
