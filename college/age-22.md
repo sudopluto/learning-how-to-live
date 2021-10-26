@@ -53,6 +53,14 @@
   - witcher 3
   - doom
 
+- career
+  - final co-op at motorola
+  - set post-grad goals as travel, taking GRE, and beingcoming ANG pilot
+
+- travel
+  - yomesmite
+  - bvi scuba
+
 - "firsts" / notable stuff
   - did a cross country road-trip to sf (through the south)
   - visited sf
@@ -70,6 +78,12 @@
   - visted yosemite
   - moved into first off-campus apt (only dude?)
   - went to first warehouse rave
-  - survived covid
+  - survived covid (aka lockdown over!!!)
   - went scuba diving in the bvi (grand blue irl bby)
   - witnessed the end of evangelion
+  - met fenway the cat in new appartment
+  - went to a renaissance fair
+  - went camping with nuhoc, one time and one time only
+  - played lots of soccer and kickball
+  - started improv classes
+  - went fishing in boston

@@ -1,5 +1,8 @@
+- welcome to college, fresh meat 
+
 - anime
     - just look at mal ugh, will eventully write an importer
+
 - books
     - nonfiction
         - Hackers and Painters
@@ -16,6 +19,7 @@
         - How To Design Programs 2e
         - Think Python 2e
 		- Think Cpp
+
 - games
     - Shadow Warrior
     - Aragami
@@ -23,9 +27,11 @@
     - Left 4 Dead 1
     - Left 4 Dead 2
     - Undertale
+
 - shows
     - game of thrones    
     - the last kingdom
+
 - skills / hobbies
     - knife sharpening
     - working out
@@ -35,6 +41,7 @@
     - dnd
     - touch typing
     - python (eek)
+
 - courses
     - cs 2500
     - cs 2510
@@ -44,6 +51,7 @@
     - cs 2800
     - arch 1310
     - python koans: completed
+
 - other notes
     - got my license on my first try
     - renewed my passport
