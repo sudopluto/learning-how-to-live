@@ -6,12 +6,16 @@
 
 - anime
 
+- manga
+  - grand blue (catch up) 
+
 - movies
   - no time to die (james bond)
   
 - shows
   
 - video games
+  - witcher wild hunt all dlc
 
 - "firsts" / notable stuff
   - finally got posters for my room
