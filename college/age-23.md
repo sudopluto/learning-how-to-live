@@ -3,6 +3,7 @@
 - books
   - witcher: baptism of fire
   - the ministry for the future
+  - witcher: tower of swallows
 
 - anime
 
