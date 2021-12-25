@@ -4,6 +4,7 @@
   - witcher: baptism of fire
   - the ministry for the future
   - witcher: tower of swallows
+  - witcher: lady of the lake
 
 - anime
 
@@ -12,8 +13,10 @@
 
 - movies
   - no time to die (james bond)
+  - spiderman: no way home
   
 - shows
+  - witcher s2
   
 - video games
   - witcher wild hunt all dlc
@@ -39,3 +42,4 @@
     - travel & adventure
     - career / open source / pilot or officer
   - finally got a switch, got a pour over coffee maker, a sex toy, and a 23andmetest
+  - completed the witcher series
