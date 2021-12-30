@@ -20,6 +20,7 @@
   
 - video games
   - witcher wild hunt all dlc
+  - pokemon pearl
 
 - "firsts" / notable stuff
   - finally got posters for my room
@@ -43,3 +44,4 @@
     - career / open source / pilot or officer
   - finally got a switch, got a pour over coffee maker, a sex toy, and a 23andmetest
   - completed the witcher series
+  - got new car (acura rdx 2019)
