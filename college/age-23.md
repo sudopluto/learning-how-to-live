@@ -14,13 +14,24 @@
 - movies
   - no time to die (james bond)
   - spiderman: no way home
+  - suicide squad
+  - shang chi
+  - dont look up
+  - drive my car (10/10)
   
 - shows
   - witcher s2
+  - cobra kai
   
 - video games
   - witcher wild hunt all dlc
   - pokemon pearl
+
+- travel
+  - united kingdom
+    - london
+      - lived in east london
+      - went to school right next to the tower bridge
 
 - "firsts" / notable stuff
   - finally got posters for my room
@@ -45,3 +56,9 @@
   - finally got a switch, got a pour over coffee maker, a sex toy, and a 23andmetest
   - completed the witcher series
   - got new car (acura rdx 2019)
+  - study abroad to uk!
+  - didn't seek amy
+  - accidently slept through job interview due to jet lag
+  - seeked amy, but didn't say hello lol
+    - but saw my first london fox tho
+  - started boxing classes, fun
