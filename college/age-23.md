@@ -7,6 +7,7 @@
   - witcher: lady of the lake
 
 - anime
+  - demon slayer s2
 
 - manga
   - grand blue (catch up) 
@@ -63,3 +64,6 @@
   - seeked amy, but didn't say hello lol
     - but saw my first london fox tho
   - started boxing classes, fun
+  - saw hamlet at the globe, took away almost nothing lol
+  - went to (well volunteered at) first anime convention: anime london
+    - so many demon slayer and attack on titan cosplays, but good vibes
