@@ -8,6 +8,7 @@
 
 - anime
   - demon slayer s2
+  - sonny boy
 
 - manga
   - grand blue (catch up) 
@@ -33,7 +34,10 @@
   - united kingdom
     - london
       - lived in east london
+        - went to boxing gym
       - went to school right next to the tower bridge
+      - found W2S grafiti / other sidemen stuff
+  - berlin
 
 - "firsts" / notable stuff
   - finally got posters for my room
