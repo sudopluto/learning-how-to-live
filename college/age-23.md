@@ -39,26 +39,38 @@
       - found W2S grafiti / other sidemen stuff
   - berlin
 
+- dating
+  - correcting for gender ratios (scuba, uk study abroad) didn't make me more attractive
+    - still unattractive, undateable
+  - my biggest fears
+    - i will never get to experience young carefree romance
+    - since im unattractive, even if i get into a relationship, she wont have any reason to stay
+      - how can i compare to her ex's (espically when i have any?)
+      - "it was just your turn"
+      - i just want to have kids and a family man, i dont wanna get divorced
+  - there is no point in me trying to date unless girls are coming up to me
+    - what to focus on:
+      - career: swe -> fighter pilot or national guard (try in 2023!!!)
+      - hustle: youtube
+      - health: mental, sleep, eating right, working out
+      - hobbies: active & nerdy, balance social ones and alone ones
+        - active: martial arts, hiking, scuba, climbing, intermural sports
+        - nerdy: anime, linux, gaming, reading, dnd, conventions
+        - social: anime, dnd, intermurals, conventions
+        - alone: pets, anime, linux, gaming, reading, gardening
+
 - "firsts" / notable stuff
   - finally got posters for my room
   - second more serious depression, got back on medication
-    - most things resolved, just need to learn how to deal with me being an introvert
-      - mostly for things like dating and balancing being social and being alone
-      - esp. with feeling defective for not having dated yet
-      - starting to wean off, see undatable below
   - got accepted into london study abroad
-    - and got rejected for scholarship lol
     - going to use it as a chance to audit UK and Germany
     - hopefully going to go to SK this summer, use as chance to audit JP, Taiwan, and AUS
   - finally started navy pilot process
-    - but nervous that depression will disqualify me
-    - back up plan is JET / working holiday (for scuba / surfing) in AUS, then try for air national guard
-  - decided that i am undatable, and that i should focus on my hobbies / goals
-    - youtube / newsletter
-    - hiking / rock climbing / scuba + surfing + cruising + snowboarding / sports / calistenics
-    - reading / video games / tea + coffee + alcohol / cats / board games + chess + shogi / arthouse movies and anime
-    - travel & adventure
-    - career / open source / pilot or officer
+    - stopped as I got job at MS
+      - on hold:
+        - JET / english teacher
+        - pilot
+        - working holiday + scuba
   - finally got a switch, got a pour over coffee maker, a sex toy, and a 23andmetest
   - completed the witcher series
   - got new car (acura rdx 2019)

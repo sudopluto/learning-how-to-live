@@ -8,3 +8,9 @@ But when? When? When? When?
 When? When? When will I ever learn?  
 
 - Car Seat Headrest
+
+Like a bullet from a gun it burns
+When you realize she was never your girl
+It was just your turn
+
+- Skepta
