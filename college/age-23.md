@@ -23,7 +23,8 @@
   
 - shows
   - witcher s2
-  - cobra kai
+  - cobra kai s4
+  - euphoria s2 (wtf did i just watch)
   
 - video games
   - witcher wild hunt all dlc
