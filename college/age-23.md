@@ -31,6 +31,37 @@
   - pokemon pearl
   - zelda link's awakening
 
+- goals
+  - career:
+    - graduate college
+    - keep up at faang
+    - consider national guard pilot, or maybe even active duty
+    - get masters in cs and mba
+  - training:
+    - get special forces level fit
+    - get private pilots license
+    - skydiving license
+    - keep up martial arts
+    - SERE / bushcraft school
+    - masters degree
+    - learn fabrication / construction
+    - learn weapons (inc trad)
+    - learn horseback riding
+    - (properly) learn cooking & drink mixing
+  - yt channel:
+    - get to youtube monetisation reqs
+  - hobbies:
+    - cont martial arts
+    - pick up rock climbing / bouldering
+    - pick up winter sport (snowboardng / skii)
+    - actually learn cruiser board / tricks
+    - chess / shogi
+    - finish a dnd campaign
+    - pick up hobby electronics / chemestry
+
+- goals done
+  - do a study abraod
+
 - travel
   - united kingdom
     - london
