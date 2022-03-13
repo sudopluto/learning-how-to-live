@@ -5,6 +5,7 @@
   - the ministry for the future
   - witcher: tower of swallows
   - witcher: lady of the lake
+  - tatami time machine blues
 
 - anime
   - demon slayer s2
@@ -37,6 +38,8 @@
     - keep up at faang
     - consider national guard pilot, or maybe even active duty
     - get masters in cs and mba
+      - once get education benefit at ms, look into online masters
+      - mba a bit later in life pls
   - training:
     - get special forces level fit
     - get private pilots license
@@ -73,23 +76,9 @@
 
 - dating
   - correcting for gender ratios (scuba, uk study abroad) didn't make me more attractive
-    - still unattractive, undateable
-  - my biggest fears
-    - i will never get to experience young carefree romance
-    - since im unattractive, even if i get into a relationship, she wont have any reason to stay
-      - how can i compare to her ex's (espically when i have any?)
-      - "it was just your turn"
-      - i just want to have kids and a family man, i dont wanna get divorced
-  - there is no point in me trying to date unless girls are coming up to me
-    - what to focus on:
-      - career: swe -> fighter pilot or national guard (try in 2023!!!)
-      - hustle: youtube
-      - health: mental, sleep, eating right, working out
-      - hobbies: active & nerdy, balance social ones and alone ones
-        - active: martial arts, hiking, scuba, climbing, intermural sports
-        - nerdy: anime, linux, gaming, reading, dnd, conventions
-        - social: anime, dnd, intermurals, conventions
-        - alone: pets, anime, linux, gaming, reading, gardening
+  - still unattractive, undateable
+  - i will never experience a young carefree romance of my youth
+  - since im not attractive (enough), i need to focus on irl flirting
 
 - "firsts" / notable stuff
   - finally got posters for my room
