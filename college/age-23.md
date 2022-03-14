@@ -26,6 +26,7 @@
   - witcher s2
   - cobra kai s4
   - euphoria s2 (wtf did i just watch)
+  - peacemaker
   
 - video games
   - witcher wild hunt all dlc
