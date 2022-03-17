@@ -1,11 +1,15 @@
 - last prime number for a while
 
 - books
-  - witcher: baptism of fire
-  - the ministry for the future
-  - witcher: tower of swallows
-  - witcher: lady of the lake
-  - tatami time machine blues
+  - fiction
+    - witcher: baptism of fire
+    - the ministry for the future
+    - witcher: tower of swallows
+    - witcher: lady of the lake
+    - tatami time machine blues
+  - non-fiction 
+    - fundamentals of female dynamics
+    - flirtology
 
 - anime
   - demon slayer s2
@@ -77,9 +81,13 @@
 
 - dating
   - correcting for gender ratios (scuba, uk study abroad) didn't make me more attractive
-  - still unattractive, undateable
+  - still superfically unattractive
   - i will never experience a young carefree romance of my youth
   - since im not attractive (enough), i need to focus on irl flirting
+    - im fine with friend-flirting with nerdy dudes lol
+    - need to get confidence in taking intrest in and flirting with women
+      - getting over sexual shame / repression
+      - not being too pessimestic
 
 - "firsts" / notable stuff
   - finally got posters for my room
