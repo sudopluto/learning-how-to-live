@@ -14,6 +14,8 @@
 - anime
   - demon slayer s2
   - sonny boy
+  - my dress-up darling
+  - jujutsu kaisen 0
 
 - manga
   - grand blue (catch up) 
@@ -31,11 +33,13 @@
   - cobra kai s4
   - euphoria s2 (wtf did i just watch)
   - peacemaker
+  - f1 dts s4
   
 - video games
   - witcher wild hunt all dlc
-  - pokemon pearl
-  - zelda link's awakening
+  - pokemon pearl (story, todo: pokedex, battle areas)
+  - zelda links awakening
+  - pokemon legends: arceus (story, todo: quests, pokedex)
 
 - goals
   - career:
@@ -49,6 +53,7 @@
     - get special forces level fit
     - get private pilots license
     - skydiving license
+    - rowing
     - keep up martial arts
     - SERE / bushcraft school
     - masters degree
@@ -113,3 +118,5 @@
   - saw hamlet at the globe, took away almost nothing lol
   - went to (well volunteered at) first anime convention: anime london
     - so many demon slayer and attack on titan cosplays, but good vibes
+  - won "best bromance" in study abroad thing
+  - finally caught covid
