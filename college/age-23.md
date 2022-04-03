@@ -16,6 +16,7 @@
   - sonny boy
   - my dress-up darling
   - jujutsu kaisen 0
+  - attack on titan final season p2
 
 - manga
   - grand blue (catch up) 
