@@ -13,11 +13,11 @@ When? When? When will I ever learn?
 
 - Car Seat Headrest
 
-But you know that when the truth is told
-That you can get what you want
-Or you can just get old
-You're gonna
-Kick off before you even get halfway through, ooh
+But you know that when the truth is told  
+That you can get what you want  
+Or you can just get old  
+You're gonna  
+Kick off before you even get halfway through, ooh  
 
 - Billy Joel
 
