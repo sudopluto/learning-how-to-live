@@ -49,6 +49,10 @@
     - get masters in cs and mba
       - once get education benefit at ms, look into online masters
       - mba a bit later in life pls
+    - live abroad in europe or asia for a bit
+      - masters abroad
+      - teach english in asia?
+      - working holdiay visa?
   - training:
     - get special forces level fit
     - get private pilots license
