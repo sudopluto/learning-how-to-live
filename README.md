@@ -1,5 +1,5 @@
-And now I'm torn between (and now I'm torn between)  
-Trying to be a better man (trying to be a better man)  
+And now I'm torn between   
+Trying to be a better man   
 Trying to accept the man I am  
 
 The people that I’ve talked to  
