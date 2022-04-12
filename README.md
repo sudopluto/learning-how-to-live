@@ -26,3 +26,13 @@ When you realize she was never your girl
 It was just your turn  
 
 - Skepta
+  
+All of our heroes fading  
+Now I can't stand to be alone  
+Let's go to perfect places  
+  
+All the nights spent off our faces   
+Trying to find these perfect places  
+What the fuck are perfect places anyway?  
+
+- Lorde  
