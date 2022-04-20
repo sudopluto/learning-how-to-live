@@ -36,3 +36,9 @@ Trying to find these perfect places
 What the fuck are perfect places anyway?  
 
 - Lorde  
+
+God knows I'm not perfect, either. I've made tons of stupid mistakes, and later I regretted them.  
+And I've done it over and over again, thousands of times; a cycle of hollow joy and vicious self-hatred.  
+But even so, every time I learned something about myself.  
+
+- Evangelion  
