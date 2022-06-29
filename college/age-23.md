@@ -7,6 +7,7 @@
     - witcher: tower of swallows
     - witcher: lady of the lake
     - tatami time machine blues
+    - kafka on the shore
   - non-fiction 
     - fundamentals of female dynamics
     - flirtology
@@ -17,6 +18,8 @@
   - my dress-up darling
   - jujutsu kaisen 0
   - attack on titan final season p2
+  - spy x fam
+  - kaguya s3
 
 - manga
   - grand blue (catch up) 
@@ -28,6 +31,7 @@
   - shang chi
   - dont look up
   - drive my car (10/10)
+  - top gun
   
 - shows
   - witcher s2
@@ -88,6 +92,8 @@
       - went to school right next to the tower bridge
       - found W2S grafiti / other sidemen stuff
   - berlin
+  - korea
+    - love all the hiking and cheap food
 
 - dating
   - correcting for gender ratios (scuba, uk study abroad) didn't make me more attractive
