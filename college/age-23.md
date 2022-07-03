@@ -8,6 +8,7 @@
     - witcher: lady of the lake
     - tatami time machine blues
     - kafka on the shore
+    - pachinko
   - non-fiction 
     - fundamentals of female dynamics
     - flirtology
