@@ -9,6 +9,8 @@
     - tatami time machine blues
     - kafka on the shore
     - pachinko
+    - steppenwolf
+    - the trial
   - non-fiction 
     - fundamentals of female dynamics
     - flirtology
@@ -33,6 +35,7 @@
   - dont look up
   - drive my car (10/10)
   - top gun
+  - RRR
   
 - shows
   - witcher s2
