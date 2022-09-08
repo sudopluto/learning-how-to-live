@@ -14,6 +14,8 @@
   - non-fiction 
     - fundamentals of female dynamics
     - flirtology
+    - dbt skills workbook
+    - dbt for dummies
 
 - anime
   - demon slayer s2
@@ -36,6 +38,8 @@
   - drive my car (10/10)
   - top gun
   - RRR
+  - decision to leave
+  - bullet train
   
 - shows
   - witcher s2
@@ -52,7 +56,6 @@
 
 - goals
   - career:
-    - graduate college
     - keep up at faang
     - consider national guard pilot, or maybe even active duty
     - get masters in cs and mba
@@ -86,6 +89,7 @@
     - pick up hobby electronics / chemestry
 
 - goals done
+  - graduate college
   - do a study abraod
 
 - travel
@@ -96,6 +100,8 @@
       - went to school right next to the tower bridge
       - found W2S grafiti / other sidemen stuff
   - berlin
+  - costa rica
+    - w/ the 420 bacon bros
   - korea
     - love all the hiking and cheap food
 
@@ -125,13 +131,29 @@
   - completed the witcher series
   - got new car (acura rdx 2019)
   - study abroad to uk!
-  - didn't seek amy
-  - accidently slept through job interview due to jet lag
-  - seeked amy, but didn't say hello lol
-    - but saw my first london fox tho
-  - started boxing classes, fun
-  - saw hamlet at the globe, took away almost nothing lol
-  - went to (well volunteered at) first anime convention: anime london
-    - so many demon slayer and attack on titan cosplays, but good vibes
-  - won "best bromance" in study abroad thing
-  - finally caught covid
+      - didn't seek amy
+      - accidently slept through job interview due to jet lag
+      - seeked amy, but didn't say hello lol
+        - but saw my first london fox tho
+      - started boxing classes, fun
+      - saw hamlet at the globe, took away almost nothing lol
+      - went to (well volunteered at) first anime convention: anime london
+        - so many demon slayer and attack on titan cosplays, but good vibes
+      - won "best bromance" in study abroad thing
+      - ksi fight & ksi concert
+      - went "clubbing" in shoreditch
+      - finally caught covid
+      - explored the barbican while in a fever dream while skipping class
+  - visted costa rica
+  - visited korea
+    - fell in love with a french girl
+        - was not reciprocated lol
+    - seeked amy, felt enlightenment, but never said hello
+    - drank and partied with koreans
+    - fell in love with german literature this time
+    - scuba dived where nobody knew english
+    - solo road trip with bbc radio in the background
+    - train to busan
+    - leveled up in archery
+    - became a local in a expat dive
+    - went to an arthouse theatre 
