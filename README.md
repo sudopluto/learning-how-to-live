@@ -21,22 +21,6 @@ Kick off before you even get halfway through, ooh
 
 - Billy Joel
 
-Like a bullet from a gun it burns  
-When you realize she was never your girl  
-It was just your turn  
-
-- Skepta
-  
-All of our heroes fading  
-Now I can't stand to be alone  
-Let's go to perfect places  
-  
-All the nights spent off our faces   
-Trying to find these perfect places  
-What the fuck are perfect places anyway?  
-
-- Lorde  
-
 God knows I'm not perfect, either. I've made tons of stupid mistakes, and later I regretted them.  
 And I've done it over and over again, thousands of times; a cycle of hollow joy and vicious self-hatred.  
 But even so, every time I learned something about myself.  
