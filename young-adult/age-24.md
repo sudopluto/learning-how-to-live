@@ -1,0 +1,2 @@
+- moving to seattle
+- finally an adult, have a 401k and everything
