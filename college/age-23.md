@@ -25,6 +25,7 @@
   - attack on titan final season p2
   - spy x fam
   - kaguya s3
+  - cyberpunk edgerunners
 
 - manga
   - grand blue (catch up) 
@@ -47,6 +48,7 @@
   - euphoria s2 (wtf did i just watch)
   - peacemaker
   - f1 dts s4
+  - cobra kai s5
   
 - video games
   - witcher wild hunt all dlc
