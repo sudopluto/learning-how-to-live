@@ -55,6 +55,7 @@
   - pokemon pearl (story, todo: pokedex, battle areas)
   - zelda links awakening
   - pokemon legends: arceus (story, todo: quests, pokedex)
+  - va-11 hall-a
 
 - goals
   - career:
