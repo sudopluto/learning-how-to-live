@@ -20,3 +20,4 @@
 - anime
     - call of the night
     - summer time rendering
+    - happy sugar life
