@@ -26,3 +26,11 @@ And I've done it over and over again, thousands of times; a cycle of hollow joy 
 But even so, every time I learned something about myself.  
 
 - Evangelion  
+
+Because I've overcome the vanity and pride of being different. 
+I've understood that they are a pitiful defense against being different.
+Because I've understood that the sun shines differently when something changes, 
+but I'm not the axis of those changes. The sun shines differently, but it will continue to shine,
+and jumping at it with a hoe isn't going to do anything.
+
+- Witcher
