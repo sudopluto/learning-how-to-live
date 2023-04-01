@@ -1,31 +1,30 @@
 - moving to seattle
-    - bellevue specifically
-        - well actually cap hill, wanting to get car before bellevue
+    - living in north cap hill
     - first time living alone (in a studio)
-        - got depressed a bit, think it's loneliness
+        - now loving living alone
     - don't know if i want to stay
         - go back to boston? -> camberville specifically
         - nyc, chicago, dc, austin
         - japan, australia, netherlands, germany
+    - starting to settle in, car and board game group op
 
 - finally an adult, have a 401k and everything
-    - not going so great, having a bit of a rough patch
-        - job
-            - job not satisfing, fake work most of the day
-            - not really liking people on my team
-            - golden handcuffs
-                - try another team
-                - change job after stock vest?
+    - job
+        - starting to like it, still unsure abt domain
+        - try another team? want systems
+        - change job after stock vest?
+            - got stock vest, still hanging on
         - physical
             - getting out of shape, not interested in working out anymore
             - hopefully new hobbies like judo and bouldering will fix
+                - judo and bouldering are fun, getting strong again
         - mental
-            - a bit depressed, spend a lot of time alone in apt binging media
+            - started sertraline again, doing much better
+            - rip figher pilot, though will get sim setup and joyrides
         - social
             - don't really know that many people in seattle
         - hobbies
-            - stopped yt, learning jp, etc
-    - hopefully will reset after winter break / the new year
+            - focus on physical, yt, and japanese
 
 - travel plans
     - explore more of the us
@@ -56,7 +55,6 @@
         - asia & europe in general
 
 - career plans
-    - try not to get fired
     - try to change teams to something more systems focused
     - try and get monitization level in yt
     - relearn fundamentals
@@ -84,8 +82,15 @@
     - pop team epic s2
     - mob psycho 100 s3 (final)
     - code geass
+    - attack on titian final season pt 2 p1
+    - jojo s3
+    - jojo s4
+    - jojo s5
 
 - games
     - halo reach (replay)
     - halo 2 anniv
     - yakuza 0 (main story)
+    - bf1
+    - bf5
+    - bf4 (replay)
