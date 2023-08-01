@@ -14,17 +14,26 @@
         - try another team? want systems
         - change job after stock vest?
             - got stock vest, still hanging on
-        - physical
-            - getting out of shape, not interested in working out anymore
-            - hopefully new hobbies like judo and bouldering will fix
-                - judo and bouldering are fun, getting strong again
-        - mental
-            - started sertraline again, doing much better
-            - rip figher pilot, though will get sim setup and joyrides
-        - social
-            - don't really know that many people in seattle
-        - hobbies
-            - focus on physical, yt, and japanese
+        - reached 1 year, no longer that invested in job, start to balance my work and looking outside
+    - physical
+        - getting out of shape, not interested in working out anymore
+        - hopefully new hobbies like judo and bouldering will fix
+            - judo and bouldering are fun, getting strong again
+        - volleyball and swimming has got me in pretty good shape, just need to watch diet and start strength training
+    - mental
+        - started sertraline again, doing much better
+        - rip figher pilot, though will get sim setup and joyrides
+            - this is the way, can still try fbi
+    - social
+        - don't really know that many people in seattle
+        - board games
+        - volleyball
+        - need a bigger apt / an excuse to host people, need to be the extrovert and talk to people
+        - keep up dnd w/ boston friends, plan vacations
+        - try to ps4 with wboro friends
+        - invest in steve and other seattle friends, try to hang out / go out together
+    - hobbies
+        - focus on physical, yt, and japanese
 
 - travel plans
     - explore more of the us
@@ -35,16 +44,18 @@
             - dc
             - nashville, raleigh
             - denver
-            - austin
+            - austin (done)
         - to visit
             - la
             - sf
-            - san diego
+            - san diego (visit with enu)
             - portland
-            - van city
+            - van city (road trip w/ seeking amy)
             - toronto
             - montreal
             - tijuna
+            - cozumel
+            - central and south america
     - group travel
         - contiki, topdeck, busabout
     - europe and asia
@@ -55,6 +66,7 @@
         - asia & europe in general
 
 - career plans
+    - finished 1 year at work!
     - try to change teams to something more systems focused
     - try and get monitization level in yt
     - relearn fundamentals
@@ -65,12 +77,20 @@
     - also look into relocating:
         - japan
             - try to get all the microsoft certs i can
-        - uk, germany, france
+        - germany, france, netherlands
 
 - fitness plans
     - get special forces fit -> rather fbi fitness test ready
+        - need to do
     - keep up martial arts
-    - start bouldering
+        - focus on judo
+    - start bouldering (done)
+        - get up to v2 / v3, and get better at overhangs (training grip and bridge)
+    - started volleyball, very fun
+    - add running, hiking, and swimming
+
+- books
+    - kizumonogatari
 
 - anime
     - call of the night
@@ -86,6 +106,17 @@
     - jojo s3
     - jojo s4
     - jojo s5
+    - demon slayer s3
+    - hells paradise
+    - dr stone s3
+    - mashle
+    - konosuba explosion
+    - heavenly delusion
+    - vinland saga s2
+    - chainsaw man
+    - spy x fam s2
+    - akiba maid war
+    - urusei yatsura
 
 - games
     - halo reach (replay)
@@ -94,3 +125,5 @@
     - bf1
     - bf5
     - bf4 (replay)
+    - halo 3 (replay)
+    - witcher thronebreaker
