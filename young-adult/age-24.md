@@ -117,6 +117,8 @@
     - spy x fam s2
     - akiba maid war
     - urusei yatsura
+    - jojo s6
+    - dota anime
 
 - games
     - halo reach (replay)
