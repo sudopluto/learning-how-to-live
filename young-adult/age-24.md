@@ -109,7 +109,7 @@
     - demon slayer s3
     - hells paradise
     - dr stone s3
-    - mashle
+    - mashle s2
     - konosuba explosion
     - heavenly delusion
     - vinland saga s2
@@ -119,6 +119,8 @@
     - urusei yatsura
     - jojo s6
     - dota anime
+    - jjk s2
+    - zom 100
 
 - games
     - halo reach (replay)
