@@ -4,7 +4,7 @@
 -life
     - moved to new apt
     - adopted a cat: bhenji
-    - decided to stay in seattle cap hil and dig in
+    - decided to stay in seattle cap hill and dig in
 
 - work
     - had to take a leave of absence
@@ -15,10 +15,14 @@
     - diagnosed mild-moderate adhd, hyperfocus
     - diagnosed sdam: unable to form 1st person vivid memories of events
     - started new medications
+    - started orange theory fitness
 
 - sex
     - have had decent ammount of sex, no longer curious / insecure about it
     - got told for the first time to my face that i was cute & enough
+    be a whore
+    - i think im a swinger
+    - got bored of sex somehow
 
 - anime
     - kaiju no 8
@@ -28,6 +32,9 @@
     - cod4
     - cod world at war
     - cod ww2
+    - cod infinite warfare
+    - cod advanced warfare
+    - metro 2033
 
 - goals
     - become special forces ready
