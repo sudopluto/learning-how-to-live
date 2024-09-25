@@ -9,6 +9,7 @@
 - work
     - had to take a leave of absence
     - took billy joel's advice and haven't opened my work laptop in 2 weeks
+    - ended up leaving msft
 
 - health
     - got fat again
@@ -20,13 +21,26 @@
 - sex
     - have had decent ammount of sex, no longer curious / insecure about it
     - got told for the first time to my face that i was cute & enough
-    be a whore
+    by a whore
     - i think im a swinger
     - got bored of sex somehow
+    - i think i want to have a relationship now? i feel like im no longer defective?
 
 - anime
     - kaiju no 8
     - konosuba s3
+    - ijiranaide, nagatoro-san s1 & s2
+    - alya sometimes hides her feelings in russian
+    - sousou no frieren
+
+- movies
+    - perfect days
+    - mad max fury road
+    - furiosa
+    - evil does not exist
+    - dune 2
+    - aliens
+    - alien romulus
 
 - games
     - cod4
@@ -43,7 +57,7 @@
     - get into groove of masters classes
     - content creator
     - learn photography
-    - commit to the pineapple
+    - commit to the pineapple and/or get a serious relationship
 
 - direction
     - stop bucketlist / todolist
