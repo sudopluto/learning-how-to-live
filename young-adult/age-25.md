@@ -47,8 +47,10 @@
     - cod world at war
     - cod ww2
     - cod infinite warfare
+    - cod ghosts
     - cod advanced warfare
     - metro 2033
+    - metro last light
 
 - goals
     - become special forces ready
